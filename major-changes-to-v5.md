@@ -32,4 +32,12 @@ Addons can be installed via the IN-GAME installer \[[INSTRUCTIONS HERE](faq.md#h
 
 The addons can also be downloaded from the [Addon Site](https://pluginwiki.us/addons/) and added to the <mark style="color:red;">`plugins/SimplePets/Addons/`</mark> folder on your server <mark style="color:green;">`(restart would be required)`</mark>
 {% endtab %}
+
+{% tab title="Pet Data" %}
+Thanks to the re-code I was able to make it so you can customize the default value for pets <mark style="color:green;">(Example: age)</mark>
+
+I have also added a few new data items for some pets like the Ravager, Zoglin/Hoglin, Bee, Fox, Enderman <mark style="color:green;">(Can now hold blocks, can only be set via</mark> <mark style="color:red;">`/pet modify`</mark><mark style="color:green;">)</mark>, and a few others.
+
+Pets that can have their size changed <mark style="color:green;">(Example: Slime/MagmaCube/Phantom)</mark> can now have custom sizes added to their list of items <mark style="color:green;">(the ones viewed in the GUI)</mark>, this can be done by simply copying one of the size items in the pets JSON file then change the values <mark style="color:green;">(</mark><mark style="color:green;">`If the data is not formatted correctly or has an issue it will default to ?`</mark><mark style="color:green;">)</mark>
+{% endtab %}
 {% endtabs %}
