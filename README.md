@@ -1,5 +1,7 @@
 # HOME
 
+![Current plugin version on the Jenkins](https://img.shields.io/maven-metadata/v?color=red\&label=Current%20Version\&metadataUrl=https%3A%2F%2Frepo.pluginwiki.us%2Frepository%2Fmaven-releases%2Fsimplepets%2Fbrainsynder%2FAPI%2Fmaven-metadata.xml\&style=for-the-badge)
+
 ### Requirements
 
 * As of v5 of the plugin the minimum spigot version required is 1.17
