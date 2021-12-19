@@ -12,7 +12,9 @@ I personally wont be adding it to the plugin but if someone else adds it via Git
 
 It depends on what version your server is running. Minecraft Version:
 
-* [Any Version above 1.17.1](https://ci.pluginwiki.us/job/SimplePets\_v5/)
+* [Any Version above 1.18.1](https://ci.pluginwiki.us/job/SimplePets\_v5/)
+* [1.18.1](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.18.1/target/SimplePets-1.18.1.jar)
+* [1.18](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.18/target/SimplePets-1.18.jar)
 * [1.17.1](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.17.1/target/SimplePets-1.17.1.jar)
 * [1.17](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.17/target/SimplePets-1.17.jar)&#x20;
 
