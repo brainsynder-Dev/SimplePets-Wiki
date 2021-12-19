@@ -62,7 +62,15 @@ Currently there is not an easy way to do this, You could update them 2 ways...
 There is 2 ways you can fix this:
 
 1. Give the player`(s)` a permission for any pet
-2. Go into the <mark style="color:green;">`config.yml`</mark> file and set <mark style="color:red;">`Needs-Pet-Permission-for-GUI`</mark> to <mark style="color:orange;">`false`</mark>, This will allow players to open the GUI regardless of what pet`(s)` they have permission to.
+2. Go into the <mark style="color:green;">`config.yml`</mark> file and make sure <mark style="color:red;">`Needs-Pet-Permission-for-GUI`</mark> is set to <mark style="color:orange;">`false`</mark>, This will allow players to open the GUI regardless of what pet`(s)` they have permission to.
+
+```yaml
+Permissions:
+  # Enabling this would require players to have access to at least 1 pets permission
+  # Default: false
+  Needs-Pet-Permission-for-GUI: false 
+  # Make sure this is false if you went the second option
+```
 
 ## My players see a blank GUI when they run the <mark style="color:red;">`/pet gui`</mark> command!
 
@@ -71,3 +79,10 @@ There is 3 ways you can fix this:
 1. Give the player`(s)` a permission for any pet
 2. Give the player`(s)` a pet via the <mark style="color:red;">`/pet purchased`</mark> command
 3. Go into the <mark style="color:green;">`config.yml`</mark> and set <mark style="color:red;">`Only-Show-Pets-Player-Can-Access`</mark> to <mark style="color:orange;">`false`</mark>, This will allow the players to see all the pets enabled and available for use.
+
+```yaml
+Permissions:
+  # Enabling this would remove all the pets the player does not have access to from the GUI
+  # Default: true
+  Only-Show-Pets-Player-Can-Access: true # Set this to false if option 3
+```
