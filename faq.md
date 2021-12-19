@@ -49,3 +49,10 @@ There could be a major reason for this, in v5 of SimplePets we split all externa
 What you could do is make sure you have the World Guard addon installed on your server (Check <mark style="color:red;">`/pet addon`</mark>)
 
 If the addon is not installed you can follow the steps listed [HERE](faq.md#how-can-i-install-addons-for-simplepets)
+
+## How can I update the addons I have installed?
+
+Currently there is not an easy way to do this, You could update them 2 ways...
+
+1. Download them an manually from either our [JENKINS](https://ci.pluginwiki.us/view/SimplePets%20Addons/) or from the [Addon Site](https://pluginwiki.us/addons/) Then drop them into the <mark style="color:red;">`plugins/SimplePets/Addons`</mark> folder and restart your server
+2. The second way is to delete the Addons jar file from the <mark style="color:red;">`plugins/SimplePets/Addons`</mark> folder then re-install them from following the [STEPS HERE](faq.md#how-can-i-install-addons-for-simplepets)
