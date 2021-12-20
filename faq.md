@@ -86,3 +86,7 @@ Permissions:
   # Default: true
   Only-Show-Pets-Player-Can-Access: true # Set this to false if option 3
 ```
+
+### Can the Sign GUI for renaming be customized?
+
+Yes the sign GUI can be customized, have a look at [THIS](major-changes-to-v5.md#customization-of-the-sign-gui) section for information
