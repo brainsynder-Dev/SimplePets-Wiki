@@ -74,7 +74,7 @@ Example Usage: `"&7Hey have you said`` `<mark style="color:red;">`&#e93b19`</mar
 
 You can change what line the player has to use for inputting the pets name, This can be simply done by moving the <mark style="color:orange;">`{input}`</mark> placeholder to one of the 4 lines.
 
-* [HEX Color Codes](major-changes-to-v5.md#undefined) can <mark style="color:red;">**NOT**</mark> be used for the sign GUI
+* HEX Color Codes can <mark style="color:red;">**NOT**</mark> be used for the sign GUI
 * <mark style="color:red;">MUST</mark> have 4 lines
 * One line <mark style="color:red;">MUST</mark> have the <mark style="color:orange;">`{input}`</mark> placeholder
 
