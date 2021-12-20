@@ -137,7 +137,7 @@ If you want to change the delay you can use this bit of math: <mark style="color
 
 Example: say you want pets to be removed after 35 minutes, First figure out how many seconds that would be <mark style="color:purple;">`(35 x 60 = 2,100)`</mark>. Once we have the total number of seconds that is in 35 minutes, We can then convert the seconds to Ticks <mark style="color:purple;">`(2,100 x 20 = 42,000)`</mark> So we would set the <mark style="color:green;">`"TickDelay"`</mark> to 42000.
 
-Alternatively you could use a Tick Calculator&#x20;
+Alternatively you could use a [Tick Calculator](https://mapmaking.fr/tick/)&#x20;
 
 ```yaml
 PetToggles:
