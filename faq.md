@@ -87,6 +87,66 @@ Permissions:
   Only-Show-Pets-Player-Can-Access: true # Set this to false if option 3
 ```
 
-### Can the Sign GUI for renaming be customized?
+## Can the Sign GUI for renaming be customized?
 
 Yes the sign GUI can be customized, have a look at [THIS](major-changes-to-v5.md#customization-of-the-sign-gui) section for information
+
+## How can I disable certain pets?
+
+You are able to disable what ever pet you want, that can be done by simply changing one line in the pets json file!
+
+1. Open the pets json file <mark style="color:green;">`"plugins/SimplePets/Pets/<type>.json"`</mark>
+2. Change line that is <mark style="color:green;">`"enabled":`</mark>` `<mark style="color:orange;">`true`</mark> to be <mark style="color:green;">`"enabled":`</mark>` `<mark style="color:orange;">`false`</mark>
+
+## How can I set defaults for pets? <mark style="color:green;">(Like Age)</mark>
+
+This can be done by modifying the pets json file <mark style="color:green;">`"plugins/SimplePets/Pets/<type>.json"`</mark>.
+
+This is an example of what line you can modify for a pet to be a baby/adult when they are spawned by default. Some data toggles can be numbers or text just depends on what values are listed for that bit of data.
+
+Using the example below the <mark style="color:purple;">`"baby"`</mark> data could have a value of either <mark style="color:green;">`true`</mark> or <mark style="color:red;">`false`</mark>, so that is what we would put on the line named <mark style="color:purple;">`"default"`</mark>
+
+```json
+  "data": {
+    "baby": {
+      "enabled": true,
+      "default": false, <- This line can be changed to be any of the values below
+      "values": {
+        "true": {
+          "material": "WHEAT",
+          "name": "&#C8C8C8Baby: &atrue"
+        },
+        "false": {
+          "material": "WHEAT",
+          "name": "&#C8C8C8Baby: &cfalse"
+        }
+      }
+    }
+  }
+```
+
+## My pet vanishes after a while, usually when I'm afk for a bit.
+
+This is caused because by default the <mark style="color:green;">`"AutoRemove"`</mark> feature is enabled, This can either be disabled or the time that it takes for the auto-removal can be increased.
+
+#### How to change the time
+
+The time for the <mark style="color:green;">`"AutoRemove"`</mark> is in ticks <mark style="color:green;">`(20 ticks is equal to 1 second)`</mark>, by default the time is set for 10000 ticks and that would be around 8 minutes 20 seconds.
+
+If you want to change the delay you can use this bit of math: <mark style="color:purple;">`20 x (seconds)`</mark>&#x20;
+
+Example: say you want pets to be removed after 35 minutes, First figure out how many seconds that would be <mark style="color:purple;">`(35 x 60 = 2,100)`</mark>. Once we have the total number of seconds that is in 35 minutes, We can then convert the seconds to Ticks <mark style="color:purple;">`(2,100 x 20 = 42,000)`</mark> So we would set the <mark style="color:green;">`"TickDelay"`</mark> to 42000.
+
+Alternatively you could use a Tick Calculator&#x20;
+
+```yaml
+PetToggles:
+  AutoRemove:
+    # Disabling this will make it so pets wont be automatically removed if the player is afk
+    # Default: true
+    Enabled: true
+    # What should the wait be?
+    # This is in ticks (20 ticks = 1 second)
+    # Default: 10000
+    TickDelay: 10000
+```
