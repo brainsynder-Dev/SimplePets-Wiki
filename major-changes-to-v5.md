@@ -46,7 +46,7 @@ Pets that can have their size changed <mark style="color:green;">(Example: Slime
 
 In the past you could only rename a pet via <mark style="color:orange;">CHAT</mark> or the <mark style="color:orange;">ANVIL GUI</mark> <mark style="color:green;">(or if you were advanced the</mark> <mark style="color:red;">`/pet modify`</mark> <mark style="color:green;">command)</mark>
 
-A total of <mark style="color:purple;">4</mark> different ways to change your pets name were added, and those are <mark style="color:orange;">CHAT</mark>, <mark style="color:orange;">ANVIL</mark>, <mark style="color:orange;">SIGN</mark> <mark style="color:green;">(Requires</mark> [_**ProtocolLIB**_](https://www.spigotmc.org/resources/1997/)<mark style="color:green;">)</mark>, and the <mark style="color:orange;">command</mark> <mark style="color:red;">`/pet rename <type> <name>`</mark>
+A total of <mark style="color:purple;">4</mark> different ways to change your pets name were added, and those are <mark style="color:orange;">CHAT</mark>, <mark style="color:orange;">ANVIL</mark>, <mark style="color:orange;">SIGN</mark> <mark style="color:green;">(Requires</mark> [_<mark style="color:green;">**ProtocolLIB**</mark>_](https://www.spigotmc.org/resources/1997/)<mark style="color:green;">)</mark>, and the <mark style="color:orange;">command</mark> <mark style="color:red;">`/pet rename <type> <name>`</mark>
 
 This can be changed in the <mark style="color:green;">`config.yml`</mark> file
 
