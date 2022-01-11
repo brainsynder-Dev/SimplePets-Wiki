@@ -8,4 +8,4 @@
 
 * [Pet Permissions](permissions/pet-permissions/README.md)
   * [ArmorStand](permissions/pet-permissions/armorstand.md)
-* [Pet Permissions](permissions/pet-permissions-1.md)
+* [📋 Temp Pet Permissions Page](permissions/pet-permissions-1.md)
