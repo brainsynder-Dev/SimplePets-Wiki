@@ -150,3 +150,9 @@ PetToggles:
     # Default: 10000
     TickDelay: 10000
 ```
+
+## How can I give pets as rewards from crates/voting?
+
+You should be able to give pets a few different ways. The best choice would be to use permissions, as that is the easiest way to do it.
+
+####

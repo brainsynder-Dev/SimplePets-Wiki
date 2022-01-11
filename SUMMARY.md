@@ -3,3 +3,7 @@
 * [HOME](README.md)
 * [FAQ](faq.md)
 * [Major changes to v5](major-changes-to-v5.md)
+
+## Permissions
+
+* [Pet Permissions](permissions/pet-permissions.md)
