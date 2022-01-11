@@ -26,7 +26,7 @@
 | pet.type.axolotl.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.axolotl.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.axolotl.data.variant | Will allow the player to view/toggle the 'Variant' Data Item |
-| pet.type.axolotl.data.playing_dead | Will allow the player to view/toggle the 'Playing_dead' Data Item |
+| pet.type.axolotl.data.playing_dead | Will allow the player to view/toggle the 'Playing Dead' Data Item |
 
 ## Bat
 
@@ -91,7 +91,7 @@
 | pet.type.cat.data.sleep | Will allow the player to view/toggle the 'Sleep' Data Item |
 | pet.type.cat.data.collar | Will allow the player to view/toggle the 'Collar' Data Item |
 | pet.type.cat.data.type | Will allow the player to view/toggle the 'Type' Data Item |
-| pet.type.cat.data.head_up | Will allow the player to view/toggle the 'Head_up' Data Item |
+| pet.type.cat.data.head_up | Will allow the player to view/toggle the 'Head Up' Data Item |
 
 ## Cave Spider
 
@@ -204,7 +204,7 @@
 | pet.type.drowned.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.drowned.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.drowned.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.drowned.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.drowned.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 | pet.type.drowned.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
 
 ## Elder Guardian
@@ -395,7 +395,7 @@
 | pet.type.husk.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.husk.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.husk.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.husk.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.husk.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 | pet.type.husk.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
 
 ## Illusioner
@@ -740,7 +740,7 @@
 | pet.type.skeleton.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.skeleton.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.skeleton.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.skeleton.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.skeleton.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 
 ## Skeleton Horse
 
@@ -824,7 +824,7 @@
 | pet.type.stray.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.stray.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.stray.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.stray.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.stray.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 
 ## Strider
 
@@ -870,9 +870,9 @@
 | pet.type.tropicalfish.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.tropicalfish.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.tropicalfish.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.tropicalfish.data.body_color | Will allow the player to view/toggle the 'Body_color' Data Item |
+| pet.type.tropicalfish.data.body_color | Will allow the player to view/toggle the 'Body Color' Data Item |
 | pet.type.tropicalfish.data.pattern | Will allow the player to view/toggle the 'Pattern' Data Item |
-| pet.type.tropicalfish.data.pattern_color | Will allow the player to view/toggle the 'Pattern_color' Data Item |
+| pet.type.tropicalfish.data.pattern_color | Will allow the player to view/toggle the 'Pattern Color' Data Item |
 
 ## Turtle
 
@@ -1001,7 +1001,7 @@
 | pet.type.witherskeleton.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.witherskeleton.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.witherskeleton.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.witherskeleton.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.witherskeleton.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 
 ## Wolf
 
@@ -1050,7 +1050,7 @@
 | pet.type.zombie.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.zombie.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.zombie.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.zombie.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.zombie.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 | pet.type.zombie.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
 
 ## Zombie Horse
@@ -1082,7 +1082,7 @@
 | pet.type.zombievillager.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.zombievillager.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.zombievillager.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.zombievillager.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.zombievillager.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 | pet.type.zombievillager.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
 | pet.type.zombievillager.data.profession | Will allow the player to view/toggle the 'Profession' Data Item |
 | pet.type.zombievillager.data.biome | Will allow the player to view/toggle the 'Biome' Data Item |
@@ -1101,5 +1101,5 @@
 | pet.type.zombifiedpiglin.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.zombifiedpiglin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.zombifiedpiglin.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.zombifiedpiglin.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
+| pet.type.zombifiedpiglin.data.raised_arms | Will allow the player to view/toggle the 'Raised Arms' Data Item |
 
