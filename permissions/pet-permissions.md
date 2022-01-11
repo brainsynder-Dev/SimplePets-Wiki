@@ -1,17 +1,3 @@
-## Unknown
-
-| Permission Node        | Description                                                                                            |
-| - | - |
-| pet.type.unknown.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.unknown.fly | Will allow the Unknown to fly (if enabled) |
-| pet.type.unknown.hat | Will allow the Unknown to be a hat (if enabled) |
-| pet.type.unknown.mount | Will allow the Unknown to be a hat (if enabled) |
-| pet.type.unknown.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data unknown</mark>) |
-| pet.type.unknown.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
-| pet.type.unknown.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
-| pet.type.unknown.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.unknown.* |  |
-
 ## Armor Stand
 
 | Permission Node        | Description                                                                                            |
@@ -25,7 +11,6 @@
 | pet.type.armorstand.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.armorstand.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.armorstand.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
-| pet.type.armorstand.* |  |
 
 ## Axolotl
 
@@ -42,7 +27,6 @@
 | pet.type.axolotl.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.axolotl.data.variant | Will allow the player to view/toggle the 'Variant' Data Item |
 | pet.type.axolotl.data.playing_dead | Will allow the player to view/toggle the 'Playing_dead' Data Item |
-| pet.type.axolotl.* |  |
 
 ## Bat
 
@@ -57,7 +41,6 @@
 | pet.type.bat.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.bat.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.bat.data.hanging | Will allow the player to view/toggle the 'Hanging' Data Item |
-| pet.type.bat.* |  |
 
 ## Bee
 
@@ -76,7 +59,6 @@
 | pet.type.bee.data.nectar | Will allow the player to view/toggle the 'Nectar' Data Item |
 | pet.type.bee.data.stinger | Will allow the player to view/toggle the 'Stinger' Data Item |
 | pet.type.bee.data.flipped | Will allow the player to view/toggle the 'Flipped' Data Item |
-| pet.type.bee.* |  |
 
 ## Blaze
 
@@ -90,7 +72,6 @@
 | pet.type.blaze.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.blaze.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.blaze.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.blaze.* |  |
 
 ## Cat
 
@@ -111,7 +92,6 @@
 | pet.type.cat.data.collar | Will allow the player to view/toggle the 'Collar' Data Item |
 | pet.type.cat.data.type | Will allow the player to view/toggle the 'Type' Data Item |
 | pet.type.cat.data.head_up | Will allow the player to view/toggle the 'Head_up' Data Item |
-| pet.type.cat.* |  |
 
 ## Cave Spider
 
@@ -125,7 +105,6 @@
 | pet.type.cavespider.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.cavespider.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.cavespider.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.cavespider.* |  |
 
 ## Chicken
 
@@ -140,7 +119,6 @@
 | pet.type.chicken.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.chicken.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.chicken.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.chicken.* |  |
 
 ## Cod
 
@@ -154,7 +132,6 @@
 | pet.type.cod.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.cod.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.cod.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.cod.* |  |
 
 ## Cow
 
@@ -169,7 +146,6 @@
 | pet.type.cow.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.cow.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.cow.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.cow.* |  |
 
 ## Creeper
 
@@ -184,7 +160,6 @@
 | pet.type.creeper.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.creeper.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.creeper.data.powered | Will allow the player to view/toggle the 'Powered' Data Item |
-| pet.type.creeper.* |  |
 
 ## Dolphin
 
@@ -198,7 +173,6 @@
 | pet.type.dolphin.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.dolphin.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.dolphin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.dolphin.* |  |
 
 ## Donkey
 
@@ -216,7 +190,6 @@
 | pet.type.donkey.data.chest | Will allow the player to view/toggle the 'Chest' Data Item |
 | pet.type.donkey.data.eating | Will allow the player to view/toggle the 'Eating' Data Item |
 | pet.type.donkey.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.donkey.* |  |
 
 ## Drowned
 
@@ -233,7 +206,6 @@
 | pet.type.drowned.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.drowned.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
 | pet.type.drowned.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-| pet.type.drowned.* |  |
 
 ## Elder Guardian
 
@@ -247,7 +219,6 @@
 | pet.type.elderguardian.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.elderguardian.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.elderguardian.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.elderguardian.* |  |
 
 ## Enderman
 
@@ -262,7 +233,6 @@
 | pet.type.enderman.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.enderman.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.enderman.data.screaming | Will allow the player to view/toggle the 'Screaming' Data Item |
-| pet.type.enderman.* |  |
 
 ## Endermite
 
@@ -276,7 +246,6 @@
 | pet.type.endermite.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.endermite.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.endermite.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.endermite.* |  |
 
 ## Evoker
 
@@ -291,7 +260,6 @@
 | pet.type.evoker.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.evoker.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.evoker.data.spell | Will allow the player to view/toggle the 'Spell' Data Item |
-| pet.type.evoker.* |  |
 
 ## Fox
 
@@ -311,7 +279,6 @@
 | pet.type.fox.data.crouching | Will allow the player to view/toggle the 'Crouching' Data Item |
 | pet.type.fox.data.type | Will allow the player to view/toggle the 'Type' Data Item |
 | pet.type.fox.data.sitting | Will allow the player to view/toggle the 'Sitting' Data Item |
-| pet.type.fox.* |  |
 
 ## Ghast
 
@@ -326,7 +293,6 @@
 | pet.type.ghast.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.ghast.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.ghast.data.screaming | Will allow the player to view/toggle the 'Screaming' Data Item |
-| pet.type.ghast.* |  |
 
 ## Giant
 
@@ -340,7 +306,6 @@
 | pet.type.giant.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.giant.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.giant.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.giant.* |  |
 
 ## Glow Squid
 
@@ -355,7 +320,6 @@
 | pet.type.glowsquid.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.glowsquid.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.glowsquid.data.glowing | Will allow the player to view/toggle the 'Glowing' Data Item |
-| pet.type.glowsquid.* |  |
 
 ## Goat
 
@@ -370,7 +334,6 @@
 | pet.type.goat.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.goat.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.goat.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.goat.* |  |
 
 ## Guardian
 
@@ -384,7 +347,6 @@
 | pet.type.guardian.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.guardian.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.guardian.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.guardian.* |  |
 
 ## Hoglin
 
@@ -400,7 +362,6 @@
 | pet.type.hoglin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.hoglin.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.hoglin.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-| pet.type.hoglin.* |  |
 
 ## Horse
 
@@ -420,7 +381,6 @@
 | pet.type.horse.data.color | Will allow the player to view/toggle the 'Color' Data Item |
 | pet.type.horse.data.style | Will allow the player to view/toggle the 'Style' Data Item |
 | pet.type.horse.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.horse.* |  |
 
 ## Husk
 
@@ -437,7 +397,6 @@
 | pet.type.husk.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.husk.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
 | pet.type.husk.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-| pet.type.husk.* |  |
 
 ## Illusioner
 
@@ -452,7 +411,6 @@
 | pet.type.illusioner.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.illusioner.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.illusioner.data.spell | Will allow the player to view/toggle the 'Spell' Data Item |
-| pet.type.illusioner.* |  |
 
 ## Iron Golem
 
@@ -466,7 +424,6 @@
 | pet.type.irongolem.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.irongolem.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.irongolem.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.irongolem.* |  |
 
 ## Llama
 
@@ -485,7 +442,6 @@
 | pet.type.llama.data.color | Will allow the player to view/toggle the 'Color' Data Item |
 | pet.type.llama.data.skin | Will allow the player to view/toggle the 'Skin' Data Item |
 | pet.type.llama.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.llama.* |  |
 
 ## Magma Cube
 
@@ -500,7 +456,6 @@
 | pet.type.magmacube.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.magmacube.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.magmacube.data.size | Will allow the player to view/toggle the 'Size' Data Item |
-| pet.type.magmacube.* |  |
 
 ## Mooshroom
 
@@ -516,7 +471,6 @@
 | pet.type.mooshroom.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.mooshroom.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.mooshroom.data.type | Will allow the player to view/toggle the 'Type' Data Item |
-| pet.type.mooshroom.* |  |
 
 ## Mule
 
@@ -534,7 +488,6 @@
 | pet.type.mule.data.chest | Will allow the player to view/toggle the 'Chest' Data Item |
 | pet.type.mule.data.eating | Will allow the player to view/toggle the 'Eating' Data Item |
 | pet.type.mule.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.mule.* |  |
 
 ## Ocelot
 
@@ -549,7 +502,6 @@
 | pet.type.ocelot.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.ocelot.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.ocelot.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.ocelot.* |  |
 
 ## Panda
 
@@ -568,7 +520,6 @@
 | pet.type.panda.data.sitting | Will allow the player to view/toggle the 'Sitting' Data Item |
 | pet.type.panda.data.sleeping | Will allow the player to view/toggle the 'Sleeping' Data Item |
 | pet.type.panda.data.sneeze | Will allow the player to view/toggle the 'Sneeze' Data Item |
-| pet.type.panda.* |  |
 
 ## Parrot
 
@@ -586,7 +537,6 @@
 | pet.type.parrot.data.tamed | Will allow the player to view/toggle the 'Tamed' Data Item |
 | pet.type.parrot.data.variant | Will allow the player to view/toggle the 'Variant' Data Item |
 | pet.type.parrot.data.sitting | Will allow the player to view/toggle the 'Sitting' Data Item |
-| pet.type.parrot.* |  |
 
 ## Phantom
 
@@ -601,7 +551,6 @@
 | pet.type.phantom.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.phantom.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.phantom.data.size | Will allow the player to view/toggle the 'Size' Data Item |
-| pet.type.phantom.* |  |
 
 ## Pig
 
@@ -617,7 +566,6 @@
 | pet.type.pig.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.pig.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.pig.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.pig.* |  |
 
 ## Piglin
 
@@ -635,7 +583,6 @@
 | pet.type.piglin.data.charging | Will allow the player to view/toggle the 'Charging' Data Item |
 | pet.type.piglin.data.dancing | Will allow the player to view/toggle the 'Dancing' Data Item |
 | pet.type.piglin.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-| pet.type.piglin.* |  |
 
 ## Piglin Brute
 
@@ -650,7 +597,6 @@
 | pet.type.piglinbrute.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.piglinbrute.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.piglinbrute.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-| pet.type.piglinbrute.* |  |
 
 ## Pillager
 
@@ -664,7 +610,6 @@
 | pet.type.pillager.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.pillager.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.pillager.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.pillager.* |  |
 
 ## Polarbear
 
@@ -680,7 +625,6 @@
 | pet.type.polarbear.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.polarbear.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.polarbear.data.standing | Will allow the player to view/toggle the 'Standing' Data Item |
-| pet.type.polarbear.* |  |
 
 ## Pufferfish
 
@@ -695,7 +639,6 @@
 | pet.type.pufferfish.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.pufferfish.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.pufferfish.data.size | Will allow the player to view/toggle the 'Size' Data Item |
-| pet.type.pufferfish.* |  |
 
 ## Rabbit
 
@@ -711,7 +654,6 @@
 | pet.type.rabbit.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.rabbit.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.rabbit.data.variant | Will allow the player to view/toggle the 'Variant' Data Item |
-| pet.type.rabbit.* |  |
 
 ## Ravager
 
@@ -726,7 +668,6 @@
 | pet.type.ravager.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.ravager.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.ravager.data.chomping | Will allow the player to view/toggle the 'Chomping' Data Item |
-| pet.type.ravager.* |  |
 
 ## Salmon
 
@@ -740,7 +681,6 @@
 | pet.type.salmon.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.salmon.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.salmon.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.salmon.* |  |
 
 ## Sheep
 
@@ -758,7 +698,6 @@
 | pet.type.sheep.data.color | Will allow the player to view/toggle the 'Color' Data Item |
 | pet.type.sheep.data.rainbow | Will allow the player to view/toggle the 'Rainbow' Data Item |
 | pet.type.sheep.data.sheared | Will allow the player to view/toggle the 'Sheared' Data Item |
-| pet.type.sheep.* |  |
 
 ## Shulker
 
@@ -775,7 +714,6 @@
 | pet.type.shulker.data.color | Will allow the player to view/toggle the 'Color' Data Item |
 | pet.type.shulker.data.rainbow | Will allow the player to view/toggle the 'Rainbow' Data Item |
 | pet.type.shulker.data.closed | Will allow the player to view/toggle the 'Closed' Data Item |
-| pet.type.shulker.* |  |
 
 ## Silverfish
 
@@ -789,7 +727,6 @@
 | pet.type.silverfish.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.silverfish.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.silverfish.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.silverfish.* |  |
 
 ## Skeleton
 
@@ -804,7 +741,6 @@
 | pet.type.skeleton.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.skeleton.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.skeleton.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
-| pet.type.skeleton.* |  |
 
 ## Skeleton Horse
 
@@ -821,7 +757,6 @@
 | pet.type.skeletonhorse.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.skeletonhorse.data.eating | Will allow the player to view/toggle the 'Eating' Data Item |
 | pet.type.skeletonhorse.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.skeletonhorse.* |  |
 
 ## Slime
 
@@ -836,7 +771,6 @@
 | pet.type.slime.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.slime.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.slime.data.size | Will allow the player to view/toggle the 'Size' Data Item |
-| pet.type.slime.* |  |
 
 ## Snowman
 
@@ -851,7 +785,6 @@
 | pet.type.snowman.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.snowman.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.snowman.data.pumpkin | Will allow the player to view/toggle the 'Pumpkin' Data Item |
-| pet.type.snowman.* |  |
 
 ## Spider
 
@@ -865,7 +798,6 @@
 | pet.type.spider.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.spider.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.spider.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.spider.* |  |
 
 ## Squid
 
@@ -879,7 +811,6 @@
 | pet.type.squid.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.squid.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.squid.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.squid.* |  |
 
 ## Stray
 
@@ -894,7 +825,6 @@
 | pet.type.stray.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.stray.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.stray.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
-| pet.type.stray.* |  |
 
 ## Strider
 
@@ -910,7 +840,6 @@
 | pet.type.strider.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.strider.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.strider.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.strider.* |  |
 
 ## Trader Llama
 
@@ -928,7 +857,6 @@
 | pet.type.traderllama.data.chest | Will allow the player to view/toggle the 'Chest' Data Item |
 | pet.type.traderllama.data.color | Will allow the player to view/toggle the 'Color' Data Item |
 | pet.type.traderllama.data.skin | Will allow the player to view/toggle the 'Skin' Data Item |
-| pet.type.traderllama.* |  |
 
 ## Tropical Fish
 
@@ -945,7 +873,6 @@
 | pet.type.tropicalfish.data.body_color | Will allow the player to view/toggle the 'Body_color' Data Item |
 | pet.type.tropicalfish.data.pattern | Will allow the player to view/toggle the 'Pattern' Data Item |
 | pet.type.tropicalfish.data.pattern_color | Will allow the player to view/toggle the 'Pattern_color' Data Item |
-| pet.type.tropicalfish.* |  |
 
 ## Turtle
 
@@ -960,7 +887,6 @@
 | pet.type.turtle.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.turtle.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.turtle.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.turtle.* |  |
 
 ## Vex
 
@@ -975,7 +901,6 @@
 | pet.type.vex.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.vex.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.vex.data.powered | Will allow the player to view/toggle the 'Powered' Data Item |
-| pet.type.vex.* |  |
 
 ## Villager
 
@@ -994,7 +919,6 @@
 | pet.type.villager.data.profession | Will allow the player to view/toggle the 'Profession' Data Item |
 | pet.type.villager.data.biome | Will allow the player to view/toggle the 'Biome' Data Item |
 | pet.type.villager.data.level | Will allow the player to view/toggle the 'Level' Data Item |
-| pet.type.villager.* |  |
 
 ## Vindicator
 
@@ -1009,7 +933,6 @@
 | pet.type.vindicator.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.vindicator.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.vindicator.data.johnny | Will allow the player to view/toggle the 'Johnny' Data Item |
-| pet.type.vindicator.* |  |
 
 ## Wandering Trader
 
@@ -1023,7 +946,6 @@
 | pet.type.wanderingtrader.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.wanderingtrader.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.wanderingtrader.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.wanderingtrader.* |  |
 
 ## Warden
 
@@ -1037,7 +959,6 @@
 | pet.type.warden.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.warden.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.warden.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.warden.* |  |
 
 ## Witch
 
@@ -1052,7 +973,6 @@
 | pet.type.witch.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.witch.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.witch.data.potion | Will allow the player to view/toggle the 'Potion' Data Item |
-| pet.type.witch.* |  |
 
 ## Wither
 
@@ -1068,7 +988,6 @@
 | pet.type.wither.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.wither.data.shielded | Will allow the player to view/toggle the 'Shielded' Data Item |
 | pet.type.wither.data.small | Will allow the player to view/toggle the 'Small' Data Item |
-| pet.type.wither.* |  |
 
 ## Wither Skeleton
 
@@ -1083,7 +1002,6 @@
 | pet.type.witherskeleton.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.witherskeleton.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.witherskeleton.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
-| pet.type.witherskeleton.* |  |
 
 ## Wolf
 
@@ -1104,7 +1022,6 @@
 | pet.type.wolf.data.sitting | Will allow the player to view/toggle the 'Sitting' Data Item |
 | pet.type.wolf.data.tilted | Will allow the player to view/toggle the 'Tilted' Data Item |
 | pet.type.wolf.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-| pet.type.wolf.* |  |
 
 ## Zoglin
 
@@ -1119,7 +1036,6 @@
 | pet.type.zoglin.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.zoglin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.zoglin.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-| pet.type.zoglin.* |  |
 
 ## Zombie
 
@@ -1136,7 +1052,6 @@
 | pet.type.zombie.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.zombie.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
 | pet.type.zombie.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-| pet.type.zombie.* |  |
 
 ## Zombie Horse
 
@@ -1153,7 +1068,6 @@
 | pet.type.zombiehorse.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.zombiehorse.data.eating | Will allow the player to view/toggle the 'Eating' Data Item |
 | pet.type.zombiehorse.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-| pet.type.zombiehorse.* |  |
 
 ## Zombie Villager
 
@@ -1173,7 +1087,6 @@
 | pet.type.zombievillager.data.profession | Will allow the player to view/toggle the 'Profession' Data Item |
 | pet.type.zombievillager.data.biome | Will allow the player to view/toggle the 'Biome' Data Item |
 | pet.type.zombievillager.data.level | Will allow the player to view/toggle the 'Level' Data Item |
-| pet.type.zombievillager.* |  |
 
 ## Zombified Piglin
 
@@ -1189,5 +1102,4 @@
 | pet.type.zombifiedpiglin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.zombifiedpiglin.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.zombifiedpiglin.data.raised_arms | Will allow the player to view/toggle the 'Raised_arms' Data Item |
-| pet.type.zombifiedpiglin.* |  |
 
