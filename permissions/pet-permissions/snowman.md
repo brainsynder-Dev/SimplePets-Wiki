@@ -3,7 +3,7 @@ description: All permissions for the Snowman Pet
 ---
 
 # Snowman
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.snowman.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.snowman.fly | Will allow the Snowman to fly (if enabled) |
