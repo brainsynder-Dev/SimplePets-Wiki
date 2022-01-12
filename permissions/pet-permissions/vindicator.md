@@ -3,7 +3,7 @@ description: All permissions for the Vindicator Pet
 ---
 
 # Vindicator
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.vindicator.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.vindicator.fly | Will allow the Vindicator to fly (if enabled) |
