@@ -9,7 +9,4 @@
 * [Pet Permissions](permissions/pet-permissions/README.md)
   * [Armor Stand](permissions/pet-permissions/armor-stand.md)
   * [Axolotl](permissions/pet-permissions/axolotl.md)
-
-***
-
-* [Page 1](page-1.md)
+* [Other Permissions](permissions/other-permissions.md)
