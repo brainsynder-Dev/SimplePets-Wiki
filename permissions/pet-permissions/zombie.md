@@ -3,7 +3,7 @@ description: All permissions for the Zombie Pet
 ---
 
 # Zombie
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.zombie.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.zombie.fly | Will allow the Zombie to fly (if enabled) |
