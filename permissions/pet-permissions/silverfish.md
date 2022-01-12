@@ -3,7 +3,7 @@ description: All permissions for the Silverfish Pet
 ---
 
 # Silverfish
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.silverfish.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.silverfish.fly | Will allow the Silverfish to fly (if enabled) |
