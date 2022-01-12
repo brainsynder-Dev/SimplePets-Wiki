@@ -3,7 +3,7 @@ description: All permissions for the Horse Pet
 ---
 
 # Horse
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.horse.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.horse.fly | Will allow the Horse to fly (if enabled) |
