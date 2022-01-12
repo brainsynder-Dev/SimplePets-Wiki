@@ -3,7 +3,7 @@ description: All permissions for the Ravager Pet
 ---
 
 # Ravager
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.ravager.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.ravager.fly | Will allow the Ravager to fly (if enabled) |
