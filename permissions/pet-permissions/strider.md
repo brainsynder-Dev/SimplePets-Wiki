@@ -3,7 +3,7 @@ description: All permissions for the Strider Pet
 ---
 
 # Strider
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.strider.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.strider.fly | Will allow the Strider to fly (if enabled) |
