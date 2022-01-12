@@ -3,7 +3,7 @@ description: All permissions for the Enderman Pet
 ---
 
 # Enderman
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.enderman.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.enderman.fly | Will allow the Enderman to fly (if enabled) |
