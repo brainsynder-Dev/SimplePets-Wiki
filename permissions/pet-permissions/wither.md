@@ -3,7 +3,7 @@ description: All permissions for the Wither Pet
 ---
 
 # Wither
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.wither.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.wither.fly | Will allow the Wither to fly (if enabled) |
