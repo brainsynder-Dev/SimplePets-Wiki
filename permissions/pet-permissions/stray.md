@@ -3,7 +3,7 @@ description: All permissions for the Stray Pet
 ---
 
 # Stray
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.stray.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.stray.fly | Will allow the Stray to fly (if enabled) |
