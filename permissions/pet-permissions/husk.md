@@ -3,7 +3,7 @@ description: All permissions for the Husk Pet
 ---
 
 # Husk
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.husk.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.husk.fly | Will allow the Husk to fly (if enabled) |
