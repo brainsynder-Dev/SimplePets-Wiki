@@ -3,7 +3,7 @@ description: All permissions for the Skeleton Pet
 ---
 
 # Skeleton
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.skeleton.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.skeleton.fly | Will allow the Skeleton to fly (if enabled) |
