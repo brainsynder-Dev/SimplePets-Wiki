@@ -3,7 +3,7 @@ description: All permissions for the Wolf Pet
 ---
 
 # Wolf
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.wolf.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.wolf.fly | Will allow the Wolf to fly (if enabled) |
