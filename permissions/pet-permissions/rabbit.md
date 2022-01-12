@@ -3,7 +3,7 @@ description: All permissions for the Rabbit Pet
 ---
 
 # Rabbit
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.rabbit.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.rabbit.fly | Will allow the Rabbit to fly (if enabled) |
