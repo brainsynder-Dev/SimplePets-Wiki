@@ -3,7 +3,7 @@ description: All permissions for the Illusioner Pet
 ---
 
 # Illusioner
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.illusioner.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.illusioner.fly | Will allow the Illusioner to fly (if enabled) |
