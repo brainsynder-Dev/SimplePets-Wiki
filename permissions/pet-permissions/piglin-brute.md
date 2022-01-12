@@ -3,7 +3,7 @@ description: All permissions for the Piglin Brute Pet
 ---
 
 # Piglin Brute
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.piglinbrute.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.piglinbrute.fly | Will allow the Piglin Brute to fly (if enabled) |
