@@ -3,7 +3,7 @@ description: All permissions for the Cat Pet
 ---
 
 # Cat
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.cat.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.cat.fly | Will allow the Cat to fly (if enabled) |
