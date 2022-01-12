@@ -3,7 +3,7 @@ description: All permissions for the Elder Guardian Pet
 ---
 
 # Elder Guardian
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.elderguardian.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.elderguardian.fly | Will allow the Elder Guardian to fly (if enabled) |
