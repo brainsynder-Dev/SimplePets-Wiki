@@ -3,7 +3,7 @@ description: All permissions for the Zombie Villager Pet
 ---
 
 # Zombie Villager
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.zombievillager.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.zombievillager.fly | Will allow the Zombie Villager to fly (if enabled) |
