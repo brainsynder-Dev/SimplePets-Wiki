@@ -3,7 +3,7 @@ description: All permissions for the Guardian Pet
 ---
 
 # Guardian
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.guardian.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.guardian.fly | Will allow the Guardian to fly (if enabled) |
