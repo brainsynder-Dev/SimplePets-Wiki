@@ -3,7 +3,7 @@ description: All permissions for the Cow Pet
 ---
 
 # Cow
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.cow.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.cow.fly | Will allow the Cow to fly (if enabled) |
