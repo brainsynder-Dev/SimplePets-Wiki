@@ -3,7 +3,7 @@ description: All permissions for the Endermite Pet
 ---
 
 # Endermite
-| Permission Node        | Description                                                                                            |
+| Permission Node | Description |
 | - | - |
 | pet.type.endermite.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.endermite.fly | Will allow the Endermite to fly (if enabled) |
