@@ -2,7 +2,7 @@
 description: All permissions for the Evoker Pet
 ---
 
-{info}# Evoker
+# Evoker
 | Permission Node | Description |
 | - | - |
 | pet.type.evoker.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
