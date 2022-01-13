@@ -2,7 +2,7 @@
 description: All permissions for the Hoglin Pet
 ---
 
-{info}# Hoglin
+# Hoglin
 | Permission Node | Description |
 | - | - |
 | pet.type.hoglin.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
