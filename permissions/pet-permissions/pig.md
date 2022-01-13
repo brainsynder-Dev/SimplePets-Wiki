@@ -2,7 +2,7 @@
 description: All permissions for the Pig Pet
 ---
 
-# Pig
+{info}# Pig
 | Permission Node | Description |
 | - | - |
 | pet.type.pig.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
