@@ -2,7 +2,7 @@
 description: All permissions for the Bat Pet
 ---
 
-# Bat
+{info}# Bat
 | Permission Node | Description |
 | - | - |
 | pet.type.bat.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
