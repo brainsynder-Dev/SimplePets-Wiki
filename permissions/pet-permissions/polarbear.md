@@ -2,7 +2,7 @@
 description: All permissions for the Polarbear Pet
 ---
 
-{info}# Polarbear
+# Polarbear
 | Permission Node | Description |
 | - | - |
 | pet.type.polarbear.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
