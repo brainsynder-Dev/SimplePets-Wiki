@@ -2,7 +2,7 @@
 description: All permissions for the Salmon Pet
 ---
 
-# Salmon
+{info}# Salmon
 | Permission Node | Description |
 | - | - |
 | pet.type.salmon.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
