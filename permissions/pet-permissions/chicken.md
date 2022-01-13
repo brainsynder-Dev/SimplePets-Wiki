@@ -2,7 +2,7 @@
 description: All permissions for the Chicken Pet
 ---
 
-{info}# Chicken
+# Chicken
 | Permission Node | Description |
 | - | - |
 | pet.type.chicken.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
