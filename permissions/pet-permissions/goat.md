@@ -2,7 +2,7 @@
 description: All permissions for the Goat Pet
 ---
 
-{info}# Goat
+# Goat
 | Permission Node | Description |
 | - | - |
 | pet.type.goat.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
