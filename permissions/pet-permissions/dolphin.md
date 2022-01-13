@@ -2,7 +2,7 @@
 description: All permissions for the Dolphin Pet
 ---
 
-{info}# Dolphin
+# Dolphin
 | Permission Node | Description |
 | - | - |
 | pet.type.dolphin.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
