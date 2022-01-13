@@ -2,7 +2,7 @@
 description: All permissions for the Shulker Pet
 ---
 
-# Shulker
+{info}# Shulker
 | Permission Node | Description |
 | - | - |
 | pet.type.shulker.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
