@@ -2,7 +2,7 @@
 description: All permissions for the Wither Skeleton Pet
 ---
 
-# Wither Skeleton
+{info}# Wither Skeleton
 | Permission Node | Description |
 | - | - |
 | pet.type.witherskeleton.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
