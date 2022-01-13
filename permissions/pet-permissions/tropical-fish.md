@@ -2,7 +2,7 @@
 description: All permissions for the Tropical Fish Pet
 ---
 
-# Tropical Fish
+{info}# Tropical Fish
 | Permission Node | Description |
 | - | - |
 | pet.type.tropicalfish.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
