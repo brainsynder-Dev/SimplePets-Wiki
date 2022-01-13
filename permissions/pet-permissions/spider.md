@@ -2,7 +2,7 @@
 description: All permissions for the Spider Pet
 ---
 
-# Spider
+{info}# Spider
 | Permission Node | Description |
 | - | - |
 | pet.type.spider.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
