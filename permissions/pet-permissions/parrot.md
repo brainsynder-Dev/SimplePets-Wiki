@@ -2,7 +2,7 @@
 description: All permissions for the Parrot Pet
 ---
 
-# Parrot
+{info}# Parrot
 | Permission Node | Description |
 | - | - |
 | pet.type.parrot.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
