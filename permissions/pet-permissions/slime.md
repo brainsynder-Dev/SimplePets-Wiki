@@ -2,7 +2,7 @@
 description: All permissions for the Slime Pet
 ---
 
-{info}# Slime
+# Slime
 | Permission Node | Description |
 | - | - |
 | pet.type.slime.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
