@@ -2,7 +2,7 @@
 description: All permissions for the Axolotl Pet
 ---
 
-{info}# Axolotl
+# Axolotl
 | Permission Node | Description |
 | - | - |
 | pet.type.axolotl.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
