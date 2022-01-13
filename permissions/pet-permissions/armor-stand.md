@@ -7,7 +7,7 @@ This pet is currently still 'In Development' an is only able to be used when
 description: All permissions for the Armor Stand Pet
 ---
 
-# Armor Stand
+{info}# Armor Stand
 | Permission Node | Description |
 | - | - |
 | pet.type.armorstand.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
