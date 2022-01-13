@@ -2,7 +2,7 @@
 description: All permissions for the Pillager Pet
 ---
 
-# Pillager
+{info}# Pillager
 | Permission Node | Description |
 | - | - |
 | pet.type.pillager.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
