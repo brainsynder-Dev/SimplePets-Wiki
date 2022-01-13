@@ -2,7 +2,7 @@
 description: All permissions for the Piglin Pet
 ---
 
-# Piglin
+{info}# Piglin
 | Permission Node | Description |
 | - | - |
 | pet.type.piglin.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
