@@ -2,7 +2,7 @@
 description: All permissions for the Trader Llama Pet
 ---
 
-# Trader Llama
+{info}# Trader Llama
 | Permission Node | Description |
 | - | - |
 | pet.type.traderllama.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
