@@ -2,7 +2,7 @@
 description: All permissions for the Husk Pet
 ---
 
-# Husk
+{info}# Husk
 | Permission Node | Description |
 | - | - |
 | pet.type.husk.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
