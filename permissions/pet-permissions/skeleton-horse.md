@@ -2,7 +2,7 @@
 description: All permissions for the Skeleton Horse Pet
 ---
 
-# Skeleton Horse
+{info}# Skeleton Horse
 | Permission Node | Description |
 | - | - |
 | pet.type.skeletonhorse.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
