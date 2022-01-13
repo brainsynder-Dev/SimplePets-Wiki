@@ -2,7 +2,7 @@
 description: All permissions for the Llama Pet
 ---
 
-{info}# Llama
+# Llama
 | Permission Node | Description |
 | - | - |
 | pet.type.llama.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
