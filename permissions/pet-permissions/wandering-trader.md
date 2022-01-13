@@ -2,7 +2,7 @@
 description: All permissions for the Wandering Trader Pet
 ---
 
-# Wandering Trader
+{info}# Wandering Trader
 | Permission Node | Description |
 | - | - |
 | pet.type.wanderingtrader.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
