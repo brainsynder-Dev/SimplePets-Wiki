@@ -2,7 +2,7 @@
 description: All permissions for the Warden Pet
 ---
 
-{info}# Warden
+# Warden
 | Permission Node | Description |
 | - | - |
 | pet.type.warden.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
