@@ -2,7 +2,7 @@
 description: All permissions for the Panda Pet
 ---
 
-# Panda
+{info}# Panda
 | Permission Node | Description |
 | - | - |
 | pet.type.panda.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
