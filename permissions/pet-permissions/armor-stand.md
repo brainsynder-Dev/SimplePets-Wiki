@@ -1,3 +1,8 @@
+{% hint style="info" %}
+This pet is currently still 'In Development' an is only able to be used when
+<mark style="color:red;">`Allow-In-Development-Mobs`</mark> is set to <mark style="color:orange;">`true`</mark> in the config.yml
+{% endhint %}
+
 ---
 description: All permissions for the Armor Stand Pet
 ---
