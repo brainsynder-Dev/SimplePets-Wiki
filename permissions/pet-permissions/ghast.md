@@ -2,7 +2,7 @@
 description: All permissions for the Ghast Pet
 ---
 
-{info}# Ghast
+# Ghast
 | Permission Node | Description |
 | - | - |
 | pet.type.ghast.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
