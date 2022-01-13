@@ -2,7 +2,7 @@
 description: All permissions for the Giant Pet
 ---
 
-{info}# Giant
+# Giant
 | Permission Node | Description |
 | - | - |
 | pet.type.giant.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
