@@ -2,6 +2,10 @@
 description: All permissions for the Shulker Pet
 ---
 
+{% hint style="warning" %}
+This pet is not supported in the latest versions of SimplePets
+{% endhint %}
+
 # Shulker
 | Permission Node | Description |
 | - | - |
