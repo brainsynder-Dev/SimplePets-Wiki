@@ -1,8 +1,15 @@
 # Table of contents
+
 * [HOME](README.md)
 * [FAQ](faq.md)
 * [Major changes to v5](major-changes-to-v5.md)
+
 ## permissions
+
+* [Command Permissions](permissions/command-permissions/README.md)
+  * [Addon Command](permissions/command-permissions/addon-command.md)
+  * [Database Command](permissions/command-permissions/database-command.md)
+  * [Data Command](permissions/command-permissions/data-command.md)
 * [Pet Permissions](permissions/pet-permissions/README.md)
   * [Armor Stand](permissions/pet-permissions/armor-stand.md)
   * [Axolotl](permissions/pet-permissions/axolotl.md)
