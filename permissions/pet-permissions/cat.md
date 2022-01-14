@@ -2,13 +2,14 @@
 description: All permissions for the Cat Pet
 ---
 
+
 # Cat
 | Permission Node | Description |
 | - | - |
 | pet.type.cat.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.cat.fly | Will allow the Cat to fly (if enabled) |
-| pet.type.cat.hat | Will allow the Cat to be a hat (if enabled) |
-| pet.type.cat.mount | Will allow the Cat to be a hat (if enabled) |
+| pet.type.cat.fly | Will allow the Cat to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.cat.hat | Will allow the Cat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.cat.mount | Will allow the Cat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cat.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data cat</mark>) |
 | pet.type.cat.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.cat.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
