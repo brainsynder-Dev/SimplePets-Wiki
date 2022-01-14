@@ -21,7 +21,7 @@ This command opens a GUI that allows you to toggle already installed addons, or 
 
 ### Usage Descriptions
 
-|                   | Description                                                                                                                                                                                 |
+| Usage             | Description                                                                                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | /pet addon        | The GUI that opened shows all the addons currently installed on your server.                                                                                                                |
 | /pet addon reload | <p>Reloads <mark style="color:red;"><strong>ALL</strong></mark> the addons currently installed<br><mark style="color:green;"><code>(Used for reloading addon config data)</code></mark></p> |

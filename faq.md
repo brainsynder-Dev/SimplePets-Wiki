@@ -16,18 +16,34 @@ It depends on what version your server is running. Minecraft Version:
 * [1.18.1](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.18.1/target/SimplePets-1.18.1.jar)
 * [1.18](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.18/target/SimplePets-1.18.jar)
 * [1.17.1](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.17.1/target/SimplePets-1.17.1.jar)
-* [1.17](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.17/target/SimplePets-1.17.jar)&#x20;
+* [1.17](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.17/target/SimplePets-1.17.jar)
 
 SimplePets v4
 
 * [1.16.4/1.16.5](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_16\_R3/target/SimplePets-1.16.4.jar)
 * [1.16.3](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_16\_R2/target/SimplePets-1.16.3.jar)
 * [1.16](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_16\_R1/target/SimplePets-1.16.jar)
-* [1.15](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_15\_R1/target/SimplePets-1.15.jar)&#x20;
+* [1.15](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_15\_R1/target/SimplePets-1.15.jar)
 
 For people who are a dinosaur and don't update:
 
 * [All versions below 1.15](https://ci.pluginwiki.us/job/SimplePets/)
+
+## My pets are not spawning, I get an error message.
+
+If you are getting the image below It could be a multitude of reasons
+
+![Example pet spawning error message](https://i.imgur.com/Ye3DPOZ.png)
+
+* The first thing you can do to diagnose the issue is try putting your mouse over this message, Majority of the time there is a 'hidden' message explaining why. For example the error you would get with the PlotSquaredAddon would be <mark style="color:green;">`"You are missing the {permission} permission"`</mark>
+* &#x20;If you are using [WorldGuard](https://dev.bukkit.org/projects/worldguard) then there is a setting in their config you can check. The config option you have to look for is <mark style="color:green;">`'block-plugin-spawning'`</mark> in the <mark style="color:green;">`'mobs'`</mark> section
+
+```yaml
+mobs:
+    block-plugin-spawning: true # Change this to false then restart your server
+```
+
+* If you are getting a big error when you try to spawn a pet, then chances are you are not using the right version of SimplePets on your server. For example this can occur when you are using <mark style="color:green;">`MC 1.17.1`</mark> but downloaded the <mark style="color:green;">`SimplePets-1.17.jar`</mark> instead, to fix this simply download the SimplePets jar file for your servers MC version.
 
 ## How can I install addons for SimplePets
 
@@ -36,15 +52,15 @@ Here is the main way of installing addons for SimplePets:
 1. Run the <mark style="color:red;">`/pet addon`</mark> command
 2. Click the <mark style="color:red;">`Install Addons`</mark> item that is on the last row
 3. Click the addon you would like to install _<mark style="color:green;">(Some of them have plugin requirements)</mark>_
-4. Re-Open the <mark style="color:red;">`/pet addon`</mark> GUI and make sure the installed addon is enabled (green)&#x20;
+4. Re-Open the <mark style="color:red;">`/pet addon`</mark> GUI and make sure the installed addon is enabled (green)
 
 <mark style="color:orange;">**--- IF it is still red check your console for an error message ---**</mark>
 
-Here are some images showing how to do this [_<mark style="color:blue;">**CLICK HERE**</mark>_](https://imgur.com/a/Yl0oxft)_<mark style="color:blue;">****</mark>_
+Here are some images showing how to do this [_<mark style="color:blue;">**CLICK HERE**</mark>_](https://imgur.com/a/Yl0oxft)_<mark style="color:blue;">\*\*\*\*</mark>_
 
 ## My World Guard flags do not seem to be working!
 
-There could be a major reason for this, in v5 of SimplePets we split all external plugin links into their own addons.&#x20;
+There could be a major reason for this, in v5 of SimplePets we split all external plugin links into their own addons.
 
 What you could do is make sure you have the World Guard addon installed on your server (Check <mark style="color:red;">`/pet addon`</mark>)
 
@@ -96,7 +112,7 @@ Yes the sign GUI can be customized, have a look at [THIS](major-changes-to-v5.md
 You are able to disable what ever pet you want, that can be done by simply changing one line in the pets json file!
 
 1. Open the pets json file <mark style="color:green;">`"plugins/SimplePets/Pets/<type>.json"`</mark>
-2. Change line that is <mark style="color:green;">`"enabled":`</mark>` `<mark style="color:orange;">`true`</mark> to be <mark style="color:green;">`"enabled":`</mark>` `<mark style="color:orange;">`false`</mark>
+2. Change line that is <mark style="color:green;">`"enabled":`</mark>` ```` `<mark style="color:orange;">`true`</mark> to be <mark style="color:green;">`"enabled":`</mark>` ```` `<mark style="color:orange;">`false`</mark>
 
 ## How can I set defaults for pets? <mark style="color:green;">(Like Age)</mark>
 
@@ -133,11 +149,11 @@ This is caused because by default the <mark style="color:green;">`"AutoRemove"`<
 
 The time for the <mark style="color:green;">`"AutoRemove"`</mark> is in ticks <mark style="color:green;">`(20 ticks is equal to 1 second)`</mark>, by default the time is set for 10000 ticks and that would be around 8 minutes 20 seconds.
 
-If you want to change the delay you can use this bit of math: <mark style="color:purple;">`20 x (seconds)`</mark>&#x20;
+If you want to change the delay you can use this bit of math: <mark style="color:purple;">`20 x (seconds)`</mark>
 
 Example: say you want pets to be removed after 35 minutes, First figure out how many seconds that would be <mark style="color:purple;">`(35 x 60 = 2,100)`</mark>. Once we have the total number of seconds that is in 35 minutes, We can then convert the seconds to Ticks <mark style="color:purple;">`(2,100 x 20 = 42,000)`</mark> So we would set the <mark style="color:green;">`"TickDelay"`</mark> to 42000.
 
-Alternatively you could use a [Tick Calculator](https://mapmaking.fr/tick/)&#x20;
+Alternatively you could use a [Tick Calculator](https://mapmaking.fr/tick/)
 
 ```yaml
 PetToggles:
