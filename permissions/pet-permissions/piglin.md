@@ -2,13 +2,14 @@
 description: All permissions for the Piglin Pet
 ---
 
+
 # Piglin
 | Permission Node | Description |
 | - | - |
 | pet.type.piglin.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.piglin.fly | Will allow the Piglin to fly (if enabled) |
-| pet.type.piglin.hat | Will allow the Piglin to be a hat (if enabled) |
-| pet.type.piglin.mount | Will allow the Piglin to be a hat (if enabled) |
+| pet.type.piglin.fly | Will allow the Piglin to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.piglin.hat | Will allow the Piglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.piglin.mount | Will allow the Piglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.piglin.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data piglin</mark>) |
 | pet.type.piglin.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.piglin.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
