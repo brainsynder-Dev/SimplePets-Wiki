@@ -9,7 +9,9 @@
   * [Data Command](commands/data-command.md)
   * [Debug Command](commands/debug-command.md)
   * [GUI Command](commands/gui-command.md)
-  * [Command](commands/command.md)
+  * [Help Command](commands/help-command.md)
+  * [List Command](commands/list-command.md)
+  * [Modify Command](commands/modify-command.md)
 
 ## permissions
 

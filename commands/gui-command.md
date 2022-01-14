@@ -4,11 +4,19 @@
 
 Opens the GUI that allows you to spawn a pet
 
+{% hint style="info" %}
+This command can be disabled by setting <mark style="color:green;">`"Simpler-Pet-GUI-Command"`</mark> to <mark style="color:orange;">`true`</mark>
+
+The command would then be simplified to just <mark style="color:green;">`/pet`</mark>
+{% endhint %}
+
 ## Command Usage
 
 > <mark style="color:orange;">`<>`</mark> = REQUIRED
 >
 > <mark style="color:blue;">`[]`</mark> = OPTIONAL
+>
+>
 >
 > Usage: /pet gui <mark style="color:blue;">`[player]`</mark>
 
