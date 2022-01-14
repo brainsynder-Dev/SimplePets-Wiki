@@ -12,6 +12,9 @@
   * [Help Command](commands/help-command.md)
   * [List Command](commands/list-command.md)
   * [Modify Command](commands/modify-command.md)
+  * [Permissions Command](commands/permissions-command.md)
+  * [Purchased Command](commands/purchased-command.md)
+  * [Regenerate Command](commands/regenerate-command.md)
 
 ## permissions
 
