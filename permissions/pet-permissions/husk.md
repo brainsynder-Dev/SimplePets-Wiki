@@ -2,13 +2,14 @@
 description: All permissions for the Husk Pet
 ---
 
+
 # Husk
 | Permission Node | Description |
 | - | - |
 | pet.type.husk.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.husk.fly | Will allow the Husk to fly (if enabled) |
-| pet.type.husk.hat | Will allow the Husk to be a hat (if enabled) |
-| pet.type.husk.mount | Will allow the Husk to be a hat (if enabled) |
+| pet.type.husk.fly | Will allow the Husk to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.husk.hat | Will allow the Husk to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.husk.mount | Will allow the Husk to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.husk.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data husk</mark>) |
 | pet.type.husk.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.husk.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
