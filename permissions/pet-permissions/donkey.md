@@ -2,13 +2,14 @@
 description: All permissions for the Donkey Pet
 ---
 
+
 # Donkey
 | Permission Node | Description |
 | - | - |
 | pet.type.donkey.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.donkey.fly | Will allow the Donkey to fly (if enabled) |
-| pet.type.donkey.hat | Will allow the Donkey to be a hat (if enabled) |
-| pet.type.donkey.mount | Will allow the Donkey to be a hat (if enabled) |
+| pet.type.donkey.fly | Will allow the Donkey to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.donkey.hat | Will allow the Donkey to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.donkey.mount | Will allow the Donkey to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.donkey.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data donkey</mark>) |
 | pet.type.donkey.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.donkey.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
