@@ -2,13 +2,14 @@
 description: All permissions for the Zombie Horse Pet
 ---
 
+
 # Zombie Horse
 | Permission Node | Description |
 | - | - |
 | pet.type.zombiehorse.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.zombiehorse.fly | Will allow the Zombie Horse to fly (if enabled) |
-| pet.type.zombiehorse.hat | Will allow the Zombie Horse to be a hat (if enabled) |
-| pet.type.zombiehorse.mount | Will allow the Zombie Horse to be a hat (if enabled) |
+| pet.type.zombiehorse.fly | Will allow the Zombie Horse to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.zombiehorse.hat | Will allow the Zombie Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.zombiehorse.mount | Will allow the Zombie Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombiehorse.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data zombie_horse</mark>) |
 | pet.type.zombiehorse.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.zombiehorse.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
