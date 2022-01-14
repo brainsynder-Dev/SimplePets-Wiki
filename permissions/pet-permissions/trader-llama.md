@@ -2,13 +2,14 @@
 description: All permissions for the Trader Llama Pet
 ---
 
+
 # Trader Llama
 | Permission Node | Description |
 | - | - |
 | pet.type.traderllama.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.traderllama.fly | Will allow the Trader Llama to fly (if enabled) |
-| pet.type.traderllama.hat | Will allow the Trader Llama to be a hat (if enabled) |
-| pet.type.traderllama.mount | Will allow the Trader Llama to be a hat (if enabled) |
+| pet.type.traderllama.fly | Will allow the Trader Llama to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.traderllama.hat | Will allow the Trader Llama to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.traderllama.mount | Will allow the Trader Llama to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.traderllama.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data trader_llama</mark>) |
 | pet.type.traderllama.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.traderllama.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
