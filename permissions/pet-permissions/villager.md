@@ -2,13 +2,14 @@
 description: All permissions for the Villager Pet
 ---
 
+
 # Villager
 | Permission Node | Description |
 | - | - |
 | pet.type.villager.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.villager.fly | Will allow the Villager to fly (if enabled) |
-| pet.type.villager.hat | Will allow the Villager to be a hat (if enabled) |
-| pet.type.villager.mount | Will allow the Villager to be a hat (if enabled) |
+| pet.type.villager.fly | Will allow the Villager to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.villager.hat | Will allow the Villager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.villager.mount | Will allow the Villager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.villager.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data villager</mark>) |
 | pet.type.villager.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.villager.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
