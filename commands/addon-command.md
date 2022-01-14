@@ -11,6 +11,16 @@ This command opens a GUI that allows you to toggle already installed addons, or 
 
 ## Command Usage
 
+> <mark style="color:orange;">`<>`</mark> = REQUIRED
+>
+> <mark style="color:blue;">`[]`</mark> = OPTIONAL
+>
+>
+>
+> Usage: /pet addon <mark style="color:blue;">`[reload]`</mark>
+
+### Usage Descriptions
+
 |                   | Description                                                                                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | /pet addon        | The GUI that opened shows all the addons currently installed on your server.                                                                                                                |
