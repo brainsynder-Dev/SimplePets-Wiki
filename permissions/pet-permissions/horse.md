@@ -2,13 +2,14 @@
 description: All permissions for the Horse Pet
 ---
 
+
 # Horse
 | Permission Node | Description |
 | - | - |
 | pet.type.horse.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.horse.fly | Will allow the Horse to fly (if enabled) |
-| pet.type.horse.hat | Will allow the Horse to be a hat (if enabled) |
-| pet.type.horse.mount | Will allow the Horse to be a hat (if enabled) |
+| pet.type.horse.fly | Will allow the Horse to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.horse.hat | Will allow the Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.horse.mount | Will allow the Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.horse.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data horse</mark>) |
 | pet.type.horse.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.horse.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
