@@ -2,13 +2,14 @@
 description: All permissions for the Strider Pet
 ---
 
+
 # Strider
 | Permission Node | Description |
 | - | - |
 | pet.type.strider.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.strider.fly | Will allow the Strider to fly (if enabled) |
-| pet.type.strider.hat | Will allow the Strider to be a hat (if enabled) |
-| pet.type.strider.mount | Will allow the Strider to be a hat (if enabled) |
+| pet.type.strider.fly | Will allow the Strider to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.strider.hat | Will allow the Strider to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.strider.mount | Will allow the Strider to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.strider.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data strider</mark>) |
 | pet.type.strider.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.strider.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
