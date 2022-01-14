@@ -2,13 +2,14 @@
 description: All permissions for the Llama Pet
 ---
 
+
 # Llama
 | Permission Node | Description |
 | - | - |
 | pet.type.llama.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.llama.fly | Will allow the Llama to fly (if enabled) |
-| pet.type.llama.hat | Will allow the Llama to be a hat (if enabled) |
-| pet.type.llama.mount | Will allow the Llama to be a hat (if enabled) |
+| pet.type.llama.fly | Will allow the Llama to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.llama.hat | Will allow the Llama to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.llama.mount | Will allow the Llama to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.llama.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data llama</mark>) |
 | pet.type.llama.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.llama.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
