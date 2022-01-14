@@ -2,13 +2,14 @@
 description: All permissions for the Wolf Pet
 ---
 
+
 # Wolf
 | Permission Node | Description |
 | - | - |
 | pet.type.wolf.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.wolf.fly | Will allow the Wolf to fly (if enabled) |
-| pet.type.wolf.hat | Will allow the Wolf to be a hat (if enabled) |
-| pet.type.wolf.mount | Will allow the Wolf to be a hat (if enabled) |
+| pet.type.wolf.fly | Will allow the Wolf to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.wolf.hat | Will allow the Wolf to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.wolf.mount | Will allow the Wolf to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.wolf.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data wolf</mark>) |
 | pet.type.wolf.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.wolf.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
