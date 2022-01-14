@@ -2,13 +2,14 @@
 description: All permissions for the Tropical Fish Pet
 ---
 
+
 # Tropical Fish
 | Permission Node | Description |
 | - | - |
 | pet.type.tropicalfish.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.tropicalfish.fly | Will allow the Tropical Fish to fly (if enabled) |
-| pet.type.tropicalfish.hat | Will allow the Tropical Fish to be a hat (if enabled) |
-| pet.type.tropicalfish.mount | Will allow the Tropical Fish to be a hat (if enabled) |
+| pet.type.tropicalfish.fly | Will allow the Tropical Fish to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.tropicalfish.hat | Will allow the Tropical Fish to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.tropicalfish.mount | Will allow the Tropical Fish to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.tropicalfish.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data tropical_fish</mark>) |
 | pet.type.tropicalfish.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.tropicalfish.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
