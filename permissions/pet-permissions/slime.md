@@ -2,13 +2,14 @@
 description: All permissions for the Slime Pet
 ---
 
+
 # Slime
 | Permission Node | Description |
 | - | - |
 | pet.type.slime.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
-| pet.type.slime.fly | Will allow the Slime to fly (if enabled) |
-| pet.type.slime.hat | Will allow the Slime to be a hat (if enabled) |
-| pet.type.slime.mount | Will allow the Slime to be a hat (if enabled) |
+| pet.type.slime.fly | Will allow the Slime to fly <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.slime.hat | Will allow the Slime to be a hat <mark style="color:green;">`(If enabled)`</mark> |
+| pet.type.slime.mount | Will allow the Slime to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.slime.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data slime</mark>) |
 | pet.type.slime.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.slime.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
