@@ -5,12 +5,14 @@
 * [Major changes to v5](major-changes-to-v5.md)
 * [Commands](commands/README.md)
   * [Addon Command](commands/addon-command.md)
+  * [Database Command](commands/database-command.md)
+  * [Data Command](commands/data-command.md)
+  * [Debug Command](commands/debug-command.md)
+  * [GUI Command](commands/gui-command.md)
+  * [Command](commands/command.md)
 
 ## permissions
 
-* [Command Permissions](permissions/command-permissions/README.md)
-  * [Database Command](permissions/command-permissions/database-command.md)
-  * [Data Command](permissions/command-permissions/data-command.md)
 * [Pet Permissions](permissions/pet-permissions/README.md)
   * [Armor Stand](permissions/pet-permissions/armor-stand.md)
   * [Axolotl](permissions/pet-permissions/axolotl.md)
