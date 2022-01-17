@@ -6,6 +6,7 @@ description: All permissions for the Wolf Pet
 # Wolf
 | Permission Node | Description |
 | - | - |
+| pet.type.wolf | Will allow the player to spawn the Wolf pet |
 | pet.type.wolf.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.wolf.fly | Will allow the Wolf to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.wolf.hat | Will allow the Wolf to be a hat <mark style="color:green;">`(If enabled)`</mark> |
