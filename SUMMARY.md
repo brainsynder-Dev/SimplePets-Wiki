@@ -19,6 +19,7 @@
   * [Remove Command](commands/remove-command.md)
   * [Rename Command](commands/rename-command.md)
   * [Report Command](commands/report-command.md)
+  * [Summon Command](commands/summon-command.md)
 
 ## permissions
 
