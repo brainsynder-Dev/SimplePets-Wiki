@@ -6,6 +6,7 @@ description: All permissions for the Squid Pet
 # Squid
 | Permission Node | Description |
 | - | - |
+| pet.type.squid | Will allow the player to spawn the Squid pet |
 | pet.type.squid.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.squid.fly | Will allow the Squid to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.squid.hat | Will allow the Squid to be a hat <mark style="color:green;">`(If enabled)`</mark> |
