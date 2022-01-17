@@ -6,6 +6,7 @@ description: All permissions for the Cod Pet
 # Cod
 | Permission Node | Description |
 | - | - |
+| pet.type.cod | Will allow the player to spawn the Cod pet |
 | pet.type.cod.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.cod.fly | Will allow the Cod to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cod.hat | Will allow the Cod to be a hat <mark style="color:green;">`(If enabled)`</mark> |
