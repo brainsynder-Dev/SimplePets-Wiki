@@ -9,6 +9,7 @@ This pet is not supported in the latest versions of SimplePets
 # Warden
 | Permission Node | Description |
 | - | - |
+| pet.type.warden | Will allow the player to spawn the Warden pet |
 | pet.type.warden.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.warden.fly | Will allow the Warden to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.warden.hat | Will allow the Warden to be a hat <mark style="color:green;">`(If enabled)`</mark> |
