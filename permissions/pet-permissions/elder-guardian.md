@@ -6,6 +6,7 @@ description: All permissions for the Elder Guardian Pet
 # Elder Guardian
 | Permission Node | Description |
 | - | - |
+| pet.type.elderguardian | Will allow the player to spawn the Elder Guardian pet |
 | pet.type.elderguardian.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.elderguardian.fly | Will allow the Elder Guardian to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.elderguardian.hat | Will allow the Elder Guardian to be a hat <mark style="color:green;">`(If enabled)`</mark> |
