@@ -6,6 +6,7 @@ description: All permissions for the Glow Squid Pet
 # Glow Squid
 | Permission Node | Description |
 | - | - |
+| pet.type.glowsquid | Will allow the player to spawn the Glow Squid pet |
 | pet.type.glowsquid.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.glowsquid.fly | Will allow the Glow Squid to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.glowsquid.hat | Will allow the Glow Squid to be a hat <mark style="color:green;">`(If enabled)`</mark> |
