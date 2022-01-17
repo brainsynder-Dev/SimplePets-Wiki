@@ -6,6 +6,7 @@ description: All permissions for the Evoker Pet
 # Evoker
 | Permission Node | Description |
 | - | - |
+| pet.type.evoker | Will allow the player to spawn the Evoker pet |
 | pet.type.evoker.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.evoker.fly | Will allow the Evoker to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.evoker.hat | Will allow the Evoker to be a hat <mark style="color:green;">`(If enabled)`</mark> |
