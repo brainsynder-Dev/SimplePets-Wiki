@@ -6,6 +6,7 @@ description: All permissions for the Mule Pet
 # Mule
 | Permission Node | Description |
 | - | - |
+| pet.type.mule | Will allow the player to spawn the Mule pet |
 | pet.type.mule.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.mule.fly | Will allow the Mule to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.mule.hat | Will allow the Mule to be a hat <mark style="color:green;">`(If enabled)`</mark> |
