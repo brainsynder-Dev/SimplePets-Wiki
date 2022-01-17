@@ -6,6 +6,7 @@ description: All permissions for the Dolphin Pet
 # Dolphin
 | Permission Node | Description |
 | - | - |
+| pet.type.dolphin | Will allow the player to spawn the Dolphin pet |
 | pet.type.dolphin.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.dolphin.fly | Will allow the Dolphin to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.dolphin.hat | Will allow the Dolphin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
