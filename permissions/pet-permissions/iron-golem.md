@@ -6,6 +6,7 @@ description: All permissions for the Iron Golem Pet
 # Iron Golem
 | Permission Node | Description |
 | - | - |
+| pet.type.irongolem | Will allow the player to spawn the Iron Golem pet |
 | pet.type.irongolem.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.irongolem.fly | Will allow the Iron Golem to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.irongolem.hat | Will allow the Iron Golem to be a hat <mark style="color:green;">`(If enabled)`</mark> |
