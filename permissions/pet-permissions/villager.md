@@ -6,6 +6,7 @@ description: All permissions for the Villager Pet
 # Villager
 | Permission Node | Description |
 | - | - |
+| pet.type.villager | Will allow the player to spawn the Villager pet |
 | pet.type.villager.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.villager.fly | Will allow the Villager to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.villager.hat | Will allow the Villager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
