@@ -6,6 +6,7 @@ description: All permissions for the Bee Pet
 # Bee
 | Permission Node | Description |
 | - | - |
+| pet.type.bee | Will allow the player to spawn the Bee pet |
 | pet.type.bee.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.bee.fly | Will allow the Bee to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.bee.hat | Will allow the Bee to be a hat <mark style="color:green;">`(If enabled)`</mark> |
