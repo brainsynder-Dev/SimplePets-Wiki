@@ -6,6 +6,7 @@ description: All permissions for the Axolotl Pet
 # Axolotl
 | Permission Node | Description |
 | - | - |
+| pet.type.axolotl | Will allow the player to spawn the Axolotl pet |
 | pet.type.axolotl.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.axolotl.fly | Will allow the Axolotl to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.axolotl.hat | Will allow the Axolotl to be a hat <mark style="color:green;">`(If enabled)`</mark> |
