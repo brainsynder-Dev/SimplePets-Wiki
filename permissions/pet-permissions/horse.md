@@ -6,6 +6,7 @@ description: All permissions for the Horse Pet
 # Horse
 | Permission Node | Description |
 | - | - |
+| pet.type.horse | Will allow the player to spawn the Horse pet |
 | pet.type.horse.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.horse.fly | Will allow the Horse to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.horse.hat | Will allow the Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
