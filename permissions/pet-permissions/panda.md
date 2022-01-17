@@ -6,6 +6,7 @@ description: All permissions for the Panda Pet
 # Panda
 | Permission Node | Description |
 | - | - |
+| pet.type.panda | Will allow the player to spawn the Panda pet |
 | pet.type.panda.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.panda.fly | Will allow the Panda to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.panda.hat | Will allow the Panda to be a hat <mark style="color:green;">`(If enabled)`</mark> |
