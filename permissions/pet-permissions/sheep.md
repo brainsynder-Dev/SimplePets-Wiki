@@ -6,6 +6,7 @@ description: All permissions for the Sheep Pet
 # Sheep
 | Permission Node | Description |
 | - | - |
+| pet.type.sheep | Will allow the player to spawn the Sheep pet |
 | pet.type.sheep.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.sheep.fly | Will allow the Sheep to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.sheep.hat | Will allow the Sheep to be a hat <mark style="color:green;">`(If enabled)`</mark> |
