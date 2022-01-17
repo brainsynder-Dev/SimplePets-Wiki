@@ -6,6 +6,7 @@ description: All permissions for the Zombified Piglin Pet
 # Zombified Piglin
 | Permission Node | Description |
 | - | - |
+| pet.type.zombifiedpiglin | Will allow the player to spawn the Zombified Piglin pet |
 | pet.type.zombifiedpiglin.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.zombifiedpiglin.fly | Will allow the Zombified Piglin to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombifiedpiglin.hat | Will allow the Zombified Piglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
