@@ -6,6 +6,7 @@ description: All permissions for the Pig Pet
 # Pig
 | Permission Node | Description |
 | - | - |
+| pet.type.pig | Will allow the player to spawn the Pig pet |
 | pet.type.pig.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.pig.fly | Will allow the Pig to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.pig.hat | Will allow the Pig to be a hat <mark style="color:green;">`(If enabled)`</mark> |
