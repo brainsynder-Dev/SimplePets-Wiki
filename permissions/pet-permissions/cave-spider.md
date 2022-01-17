@@ -6,6 +6,7 @@ description: All permissions for the Cave Spider Pet
 # Cave Spider
 | Permission Node | Description |
 | - | - |
+| pet.type.cavespider | Will allow the player to spawn the Cave Spider pet |
 | pet.type.cavespider.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.cavespider.fly | Will allow the Cave Spider to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cavespider.hat | Will allow the Cave Spider to be a hat <mark style="color:green;">`(If enabled)`</mark> |
