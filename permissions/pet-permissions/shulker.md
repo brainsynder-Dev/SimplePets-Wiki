@@ -9,6 +9,7 @@ This pet is not supported in the latest versions of SimplePets
 # Shulker
 | Permission Node | Description |
 | - | - |
+| pet.type.shulker | Will allow the player to spawn the Shulker pet |
 | pet.type.shulker.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.shulker.fly | Will allow the Shulker to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.shulker.hat | Will allow the Shulker to be a hat <mark style="color:green;">`(If enabled)`</mark> |
