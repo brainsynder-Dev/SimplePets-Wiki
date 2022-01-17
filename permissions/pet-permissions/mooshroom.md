@@ -6,6 +6,7 @@ description: All permissions for the Mooshroom Pet
 # Mooshroom
 | Permission Node | Description |
 | - | - |
+| pet.type.mooshroom | Will allow the player to spawn the Mooshroom pet |
 | pet.type.mooshroom.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.mooshroom.fly | Will allow the Mooshroom to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.mooshroom.hat | Will allow the Mooshroom to be a hat <mark style="color:green;">`(If enabled)`</mark> |
