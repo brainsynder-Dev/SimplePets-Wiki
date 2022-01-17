@@ -6,6 +6,7 @@ description: All permissions for the Pillager Pet
 # Pillager
 | Permission Node | Description |
 | - | - |
+| pet.type.pillager | Will allow the player to spawn the Pillager pet |
 | pet.type.pillager.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.pillager.fly | Will allow the Pillager to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.pillager.hat | Will allow the Pillager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
