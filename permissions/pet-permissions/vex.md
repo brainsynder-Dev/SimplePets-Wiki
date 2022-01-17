@@ -6,6 +6,7 @@ description: All permissions for the Vex Pet
 # Vex
 | Permission Node | Description |
 | - | - |
+| pet.type.vex | Will allow the player to spawn the Vex pet |
 | pet.type.vex.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.vex.fly | Will allow the Vex to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.vex.hat | Will allow the Vex to be a hat <mark style="color:green;">`(If enabled)`</mark> |
