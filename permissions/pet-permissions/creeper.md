@@ -6,6 +6,7 @@ description: All permissions for the Creeper Pet
 # Creeper
 | Permission Node | Description |
 | - | - |
+| pet.type.creeper | Will allow the player to spawn the Creeper pet |
 | pet.type.creeper.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.creeper.fly | Will allow the Creeper to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.creeper.hat | Will allow the Creeper to be a hat <mark style="color:green;">`(If enabled)`</mark> |
