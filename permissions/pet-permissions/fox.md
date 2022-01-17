@@ -6,6 +6,7 @@ description: All permissions for the Fox Pet
 # Fox
 | Permission Node | Description |
 | - | - |
+| pet.type.fox | Will allow the player to spawn the Fox pet |
 | pet.type.fox.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.fox.fly | Will allow the Fox to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.fox.hat | Will allow the Fox to be a hat <mark style="color:green;">`(If enabled)`</mark> |
