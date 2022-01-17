@@ -6,6 +6,7 @@ description: All permissions for the Ocelot Pet
 # Ocelot
 | Permission Node | Description |
 | - | - |
+| pet.type.ocelot | Will allow the player to spawn the Ocelot pet |
 | pet.type.ocelot.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.ocelot.fly | Will allow the Ocelot to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.ocelot.hat | Will allow the Ocelot to be a hat <mark style="color:green;">`(If enabled)`</mark> |
