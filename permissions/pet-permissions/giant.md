@@ -6,6 +6,7 @@ description: All permissions for the Giant Pet
 # Giant
 | Permission Node | Description |
 | - | - |
+| pet.type.giant | Will allow the player to spawn the Giant pet |
 | pet.type.giant.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.giant.fly | Will allow the Giant to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.giant.hat | Will allow the Giant to be a hat <mark style="color:green;">`(If enabled)`</mark> |
