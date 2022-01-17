@@ -6,6 +6,7 @@ description: All permissions for the Bat Pet
 # Bat
 | Permission Node | Description |
 | - | - |
+| pet.type.bat | Will allow the player to spawn the Bat pet |
 | pet.type.bat.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.bat.fly | Will allow the Bat to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.bat.hat | Will allow the Bat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
