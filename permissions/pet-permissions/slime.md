@@ -6,6 +6,7 @@ description: All permissions for the Slime Pet
 # Slime
 | Permission Node | Description |
 | - | - |
+| pet.type.slime | Will allow the player to spawn the Slime pet |
 | pet.type.slime.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.slime.fly | Will allow the Slime to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.slime.hat | Will allow the Slime to be a hat <mark style="color:green;">`(If enabled)`</mark> |
