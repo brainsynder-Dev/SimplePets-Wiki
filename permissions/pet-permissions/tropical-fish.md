@@ -6,6 +6,7 @@ description: All permissions for the Tropical Fish Pet
 # Tropical Fish
 | Permission Node | Description |
 | - | - |
+| pet.type.tropicalfish | Will allow the player to spawn the Tropical Fish pet |
 | pet.type.tropicalfish.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.tropicalfish.fly | Will allow the Tropical Fish to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.tropicalfish.hat | Will allow the Tropical Fish to be a hat <mark style="color:green;">`(If enabled)`</mark> |
