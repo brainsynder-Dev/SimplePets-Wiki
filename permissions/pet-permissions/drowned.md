@@ -6,6 +6,7 @@ description: All permissions for the Drowned Pet
 # Drowned
 | Permission Node | Description |
 | - | - |
+| pet.type.drowned | Will allow the player to spawn the Drowned pet |
 | pet.type.drowned.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.drowned.fly | Will allow the Drowned to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.drowned.hat | Will allow the Drowned to be a hat <mark style="color:green;">`(If enabled)`</mark> |
