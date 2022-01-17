@@ -36,7 +36,7 @@ If you are getting the image below It could be a multitude of reasons
 ![Example pet spawning error message](https://i.imgur.com/Ye3DPOZ.png)
 
 * The first thing you can do to diagnose the issue is try putting your mouse over this message, Majority of the time there is a 'hidden' message explaining why. For example the error you would get with the PlotSquaredAddon would be <mark style="color:green;">`"You are missing the {permission} permission"`</mark>
-* &#x20;If you are using [WorldGuard](https://dev.bukkit.org/projects/worldguard) then there is a setting in their config you can check. The config option you have to look for is <mark style="color:green;">`'block-plugin-spawning'`</mark> in the <mark style="color:green;">`'mobs'`</mark> section
+* If you are using [WorldGuard](https://dev.bukkit.org/projects/worldguard) then there is a setting in their config you can check. The config option you have to look for is <mark style="color:green;">`'block-plugin-spawning'`</mark> in the <mark style="color:green;">`'mobs'`</mark> section
 
 ```yaml
 mobs:
@@ -169,6 +169,8 @@ PetToggles:
 
 ## How can I give pets as rewards from crates/voting?
 
-You should be able to give pets a few different ways. The best choice would be to use permissions, as that is the easiest way to do it.
+You should be able to give pets a few different ways.&#x20;
 
-####
+* The best choice would be to use permissions, as that is the easiest way to do it. All the permissions for pets can be found [HERE](permissions/pet-permissions/)
+* The second way is to use the [PURCHASED PETS](commands/purchased-command.md) command \
+  Currently they still need access to the pet permission at least until we finish coding in the config option <mark style="color:green;">`"Utilize-Purchased-Pets"`</mark>
