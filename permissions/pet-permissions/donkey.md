@@ -6,6 +6,7 @@ description: All permissions for the Donkey Pet
 # Donkey
 | Permission Node | Description |
 | - | - |
+| pet.type.donkey | Will allow the player to spawn the Donkey pet |
 | pet.type.donkey.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.donkey.fly | Will allow the Donkey to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.donkey.hat | Will allow the Donkey to be a hat <mark style="color:green;">`(If enabled)`</mark> |
