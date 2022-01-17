@@ -6,6 +6,7 @@ description: All permissions for the Zombie Horse Pet
 # Zombie Horse
 | Permission Node | Description |
 | - | - |
+| pet.type.zombiehorse | Will allow the player to spawn the Zombie Horse pet |
 | pet.type.zombiehorse.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.zombiehorse.fly | Will allow the Zombie Horse to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombiehorse.hat | Will allow the Zombie Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
