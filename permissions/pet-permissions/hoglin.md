@@ -6,6 +6,7 @@ description: All permissions for the Hoglin Pet
 # Hoglin
 | Permission Node | Description |
 | - | - |
+| pet.type.hoglin | Will allow the player to spawn the Hoglin pet |
 | pet.type.hoglin.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.hoglin.fly | Will allow the Hoglin to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.hoglin.hat | Will allow the Hoglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
