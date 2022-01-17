@@ -6,6 +6,7 @@ description: All permissions for the Enderman Pet
 # Enderman
 | Permission Node | Description |
 | - | - |
+| pet.type.enderman | Will allow the player to spawn the Enderman pet |
 | pet.type.enderman.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.enderman.fly | Will allow the Enderman to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.enderman.hat | Will allow the Enderman to be a hat <mark style="color:green;">`(If enabled)`</mark> |
