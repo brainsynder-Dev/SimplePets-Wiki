@@ -10,6 +10,7 @@ This pet is currently still 'In Development' and is only able to be used when
 # Armor Stand
 | Permission Node | Description |
 | - | - |
+| pet.type.armorstand | Will allow the player to spawn the Armor Stand pet |
 | pet.type.armorstand.* | Grants full access to the pet, such as spawning the pet, flying, mounting, hat, and all the data items |
 | pet.type.armorstand.fly | Will allow the Armor Stand to fly <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.armorstand.hat | Will allow the Armor Stand to be a hat <mark style="color:green;">`(If enabled)`</mark> |
