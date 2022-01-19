@@ -10,12 +10,12 @@ This pet is currently still 'In Development' and is only able to be used when (N
 # Armor Stand
 
 | Tag Name     | Default                                                            | Type                                         |
-| - | - | - |
-| burning | false | Boolean |
-| silent | false | Boolean |
-| name | "&a&l%player%'s Armor Stand Pet" | String |
-| raised_arms | false | Boolean |
-| baby | false | Boolean |
-| health | 20.0f | Float |
-| frozen | false | Boolean |
-| shaking | false | Boolean |
+| ------------ | ------------------------------------------------------------------ | -------------------------------------------- |
+| burning | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| silent | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| name | <mark style="color:green;">"&a&l%player%'s Armor Stand Pet"</mark> | <mark style="color:green;">String</mark> |
+| raised_arms | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| baby | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| health | <mark style="color:blue;">20.0f</mark> | <mark style="color:blue;">Float</mark> |
+| frozen | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| shaking | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
