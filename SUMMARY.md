@@ -1,25 +1,31 @@
 # Table of contents
+
 * [HOME](README.md)
 * [FAQ](faq.md)
 * [Major changes to v5](major-changes-to-v5.md)
-* [Commands](commands/README.md)
-  * [Addon Command](commands/addon-command.md)
-  * [Database Command](commands/database-command.md)
-  * [Data Command](commands/data-command.md)
-  * [Debug Command](commands/debug-command.md)
-  * [GUI Command](commands/gui-command.md)
-  * [Help Command](commands/help-command.md)
-  * [List Command](commands/list-command.md)
-  * [Modify Command](commands/modify-command.md)
-  * [Permissions Command](commands/permissions-command.md)
-  * [Purchased Command](commands/purchased-command.md)
-  * [Regenerate Command](commands/regenerate-command.md)
-  * [Reload Command](commands/reload-command.md)
-  * [Remove Command](commands/remove-command.md)
-  * [Rename Command](commands/rename-command.md)
-  * [Report Command](commands/report-command.md)
-  * [Summon Command](commands/summon-command.md)
+
+## Command Information
+
+* [Commands](command-information/commands/README.md)
+  * [Addon Command](command-information/commands/addon-command.md)
+  * [Database Command](command-information/commands/database-command.md)
+  * [Data Command](command-information/commands/data-command.md)
+  * [Debug Command](command-information/commands/debug-command.md)
+  * [GUI Command](command-information/commands/gui-command.md)
+  * [Help Command](command-information/commands/help-command.md)
+  * [List Command](command-information/commands/list-command.md)
+  * [Modify Command](command-information/commands/modify-command.md)
+  * [Permissions Command](command-information/commands/permissions-command.md)
+  * [Purchased Command](command-information/commands/purchased-command.md)
+  * [Regenerate Command](command-information/commands/regenerate-command.md)
+  * [Reload Command](command-information/commands/reload-command.md)
+  * [Remove Command](command-information/commands/remove-command.md)
+  * [Rename Command](command-information/commands/rename-command.md)
+  * [Report Command](command-information/commands/report-command.md)
+  * [Summon Command](command-information/commands/summon-command.md)
+
 ## permissions
+
 * [Pet Permissions](permissions/pet-permissions/README.md)
   * [Armor Stand](permissions/pet-permissions/armor-stand.md)
   * [Axolotl](permissions/pet-permissions/axolotl.md)
@@ -96,7 +102,9 @@
   * [Zombie Villager](permissions/pet-permissions/zombie-villager.md)
   * [Zombified Piglin](permissions/pet-permissions/zombified-piglin.md)
 * [Other Permissions](permissions/other-permissions.md)
+
 ## Pet NBT
+
 * [Pet NBT Tags](pet-nbt/pet-nbt-tags/README.md)
   * [Armor Stand](pet-nbt/pet-nbt-tags/armor-stand.md)
   * [Axolotl](pet-nbt/pet-nbt-tags/axolotl.md)

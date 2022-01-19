@@ -169,8 +169,8 @@ PetToggles:
 
 ## How can I give pets as rewards from crates/voting?
 
-You should be able to give pets a few different ways.&#x20;
+You should be able to give pets a few different ways.
 
 * The best choice would be to use permissions, as that is the easiest way to do it. All the permissions for pets can be found [HERE](permissions/pet-permissions/)
-* The second way is to use the [PURCHASED PETS](commands/purchased-command.md) command \
+* The second way is to use the [PURCHASED PETS](command-information/commands/purchased-command.md) command\
   Currently they still need access to the pet permission at least until we finish coding in the config option <mark style="color:green;">`"Utilize-Purchased-Pets"`</mark>
