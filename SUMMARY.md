@@ -99,3 +99,8 @@
   * [Zombie Villager](permissions/pet-permissions/zombie-villager.md)
   * [Zombified Piglin](permissions/pet-permissions/zombified-piglin.md)
 * [Other Permissions](permissions/other-permissions.md)
+
+## Pet NBT
+
+* [Pet NBT Tags](pet-nbt/pet-nbt-tags/README.md)
+  * [Armor Stand](pet-nbt/pet-nbt-tags/armor-stand.md)
