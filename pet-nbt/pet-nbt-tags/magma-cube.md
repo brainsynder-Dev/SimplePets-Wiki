@@ -6,10 +6,10 @@ description: All nbt tags for the Magma Cube Pet
 # Magma Cube
 
 | Tag Name     | Default                                                            | Type                                         |
-| - | - | - |
-| burning | false | Boolean |
-| silent | false | Boolean |
-| size | 2 | Int |
-| name | "&a&l%player%'s Magma Cube Pet" | String |
-| health | 20.0f | Float |
-| frozen | false | Boolean |
+| ------------ | ------------------------------------------------------------------ | -------------------------------------------- |
+| burning | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| silent | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| size | <mark style="color:blue;">2</mark> | <mark style="color:blue;">Int</mark> |
+| name | <mark style="color:green;">"&a&l%player%'s Magma Cube Pet"</mark> | <mark style="color:green;">String</mark> |
+| health | <mark style="color:blue;">20.0f</mark> | <mark style="color:blue;">Float</mark> |
+| frozen | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
