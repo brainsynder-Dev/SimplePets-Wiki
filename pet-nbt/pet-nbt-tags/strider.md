@@ -6,12 +6,12 @@ description: All nbt tags for the Strider Pet
 # Strider
 
 | Tag Name     | Default                                                            | Type                                         |
-| - | - | - |
-| burning | false | Boolean |
-| silent | false | Boolean |
-| name | "&a&l%player%'s Strider Pet" | String |
-| baby | false | Boolean |
-| health | 20.0f | Float |
-| frozen | false | Boolean |
-| cold | false | Boolean |
-| saddled | false | Boolean |
+| ------------ | ------------------------------------------------------------------ | -------------------------------------------- |
+| burning | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| silent | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| name | <mark style="color:green;">"&a&l%player%'s Strider Pet"</mark> | <mark style="color:green;">String</mark> |
+| baby | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| health | <mark style="color:blue;">20.0f</mark> | <mark style="color:blue;">Float</mark> |
+| frozen | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| cold | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| saddled | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
