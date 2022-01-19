@@ -15,10 +15,8 @@ description: All nbt tags for the Llama Pet
 | frozen | false | Boolean |
 | angry | false | Boolean |
 | eating | false | Boolean |
-| PetType | "llama" | String |
 | burning | false | Boolean |
 | rearing | false | Boolean |
-| ownerName | "TestPlayer" | String |
 | name | "&a&l%player%'s Llama Pet" | String |
 | baby | false | Boolean |
 | saddled | false | Boolean |
