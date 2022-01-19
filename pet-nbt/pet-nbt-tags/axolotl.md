@@ -6,12 +6,12 @@ description: All nbt tags for the Axolotl Pet
 # Axolotl
 
 | Tag Name     | Default                                                            | Type                                         |
-| - | - | - |
-| burning | false | Boolean |
-| playing_dead | false | Boolean |
-| silent | false | Boolean |
-| name | "&a&l%player%'s Axolotl Pet" | String |
-| baby | false | Boolean |
-| variant | "LUCY" | String |
-| health | 14.0f | Float |
-| frozen | false | Boolean |
+| ------------ | ------------------------------------------------------------------ | -------------------------------------------- |
+| burning | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| playing_dead | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| silent | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| name | <mark style="color:green;">"&a&l%player%'s Axolotl Pet"</mark> | <mark style="color:green;">String</mark> |
+| baby | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| variant | <mark style="color:green;">"LUCY"</mark> | <mark style="color:green;">String</mark> |
+| health | <mark style="color:blue;">14.0f</mark> | <mark style="color:blue;">Float</mark> |
+| frozen | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
