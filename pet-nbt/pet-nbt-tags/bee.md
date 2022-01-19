@@ -10,7 +10,6 @@ description: All nbt tags for the Bee Pet
 | burning | false | Boolean |
 | flipped | false | Boolean |
 | silent | false | Boolean |
-| ownerName | "TestPlayer" | String |
 | stinger | true | Boolean |
 | name | "&a&l%player%'s Bee Pet" | String |
 | baby | false | Boolean |
@@ -18,4 +17,3 @@ description: All nbt tags for the Bee Pet
 | frozen | false | Boolean |
 | nectar | false | Boolean |
 | angry | false | Boolean |
-| PetType | "bee" | String |
