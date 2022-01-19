@@ -6,16 +6,16 @@ description: All nbt tags for the Cat Pet
 # Cat
 
 | Tag Name     | Default                                                            | Type                                         |
-| - | - | - |
-| silent | false | Boolean |
-| collar | "WHITE" | String |
-| health | 10.0f | Float |
-| frozen | false | Boolean |
-| type | "TABBY" | String |
-| sleeping | false | Boolean |
-| tamed | false | Boolean |
-| burning | false | Boolean |
-| name | "&a&l%player%'s Cat Pet" | String |
-| baby | false | Boolean |
-| head_up | false | Boolean |
-| sitting | false | Boolean |
+| ------------ | ------------------------------------------------------------------ | -------------------------------------------- |
+| silent | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| collar | <mark style="color:green;">"WHITE"</mark> | <mark style="color:green;">String</mark> |
+| health | <mark style="color:blue;">10.0f</mark> | <mark style="color:blue;">Float</mark> |
+| frozen | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| type | <mark style="color:green;">"TABBY"</mark> | <mark style="color:green;">String</mark> |
+| sleeping | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| tamed | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| burning | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| name | <mark style="color:green;">"&a&l%player%'s Cat Pet"</mark> | <mark style="color:green;">String</mark> |
+| baby | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| head_up | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
+| sitting | <mark style="color:red;">false</mark> | <mark style="color:orange;">Boolean</mark> |
