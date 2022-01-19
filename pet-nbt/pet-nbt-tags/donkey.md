@@ -13,10 +13,8 @@ description: All nbt tags for the Donkey Pet
 | frozen | false | Boolean |
 | angry | false | Boolean |
 | eating | false | Boolean |
-| PetType | "donkey" | String |
 | burning | false | Boolean |
 | rearing | false | Boolean |
-| ownerName | "TestPlayer" | String |
 | name | "&a&l%player%'s Donkey Pet" | String |
 | baby | false | Boolean |
 | saddled | false | Boolean |
