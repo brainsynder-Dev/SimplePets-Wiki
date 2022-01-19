@@ -9,7 +9,6 @@ description: All nbt tags for the Panda Pet
 | - | - | - |
 | burning | false | Boolean |
 | silent | false | Boolean |
-| ownerName | "TestPlayer" | String |
 | name | "&a&l%player%'s Panda Pet" | String |
 | baby | false | Boolean |
 | health | 20.0f | Float |
@@ -18,4 +17,3 @@ description: All nbt tags for the Panda Pet
 | sneeze | false | Boolean |
 | sitting | false | Boolean |
 | sleeping | false | Boolean |
-| PetType | "panda" | String |
