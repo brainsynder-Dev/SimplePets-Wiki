@@ -13,11 +13,9 @@ This pet is currently still 'In Development' and is only able to be used when (N
 | - | - | - |
 | burning | false | Boolean |
 | silent | false | Boolean |
-| ownerName | "TestPlayer" | String |
 | name | "&a&l%player%'s Armor Stand Pet" | String |
 | raised_arms | false | Boolean |
 | baby | false | Boolean |
 | health | 20.0f | Float |
 | frozen | false | Boolean |
 | shaking | false | Boolean |
-| PetType | "armor_stand" | String |
