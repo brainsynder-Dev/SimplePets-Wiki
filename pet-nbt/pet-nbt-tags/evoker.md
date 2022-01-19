@@ -10,9 +10,7 @@ description: All nbt tags for the Evoker Pet
 | burning | false | Boolean |
 | spell | "NONE" | String |
 | silent | false | Boolean |
-| ownerName | "TestPlayer" | String |
 | name | "&a&l%player%'s Evoker Pet" | String |
 | health | 24.0f | Float |
 | frozen | false | Boolean |
 | celebrating | false | Boolean |
-| PetType | "evoker" | String |
