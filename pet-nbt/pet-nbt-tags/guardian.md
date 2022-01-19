@@ -9,8 +9,6 @@ description: All nbt tags for the Guardian Pet
 | - | - | - |
 | burning | false | Boolean |
 | silent | false | Boolean |
-| ownerName | "TestPlayer" | String |
 | name | "&a&l%player%'s Guardian Pet" | String |
 | health | 30.0f | Float |
 | frozen | false | Boolean |
-| PetType | "guardian" | String |
