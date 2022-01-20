@@ -14,16 +14,14 @@ This command allows you to modify the targeted pet type, Some of the pets have '
 >
 > <mark style="color:blue;">`[]`</mark> = OPTIONAL
 >
->
->
-> Usage: /pet modify <mark style="color:blue;">`[player]`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">`<nbt>`</mark>
+> Usage: /pet modify <mark style="color:blue;">`[player]`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:orange;">`<nbt>`</mark>
 
 ### Usage Descriptions
 
-| Usage                                                                                                                                                                                                                                                    | Description                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| /pet modify <mark style="color:orange;">`<type>`</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">`<nbt>`</mark>                                             | <p>This will allow you to modify your targeted pet type with the data you put via nbt<br><br>nbt is in a similar structure to JSON<br>Find out more <a href="https://minecraft.fandom.com/wiki/NBT_format">HERE</a></p>        |
-| /pet modify <mark style="color:blue;">`[player]`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">`<nbt>`</mark> | <p>This will allow you to modify the targeted players pet type with the data you put via nbt<br><br>nbt is in a similar structure to JSON<br>Find out more <a href="https://minecraft.fandom.com/wiki/NBT_format">HERE</a></p> |
+| Usage                                                                                                                                          | Description                                                                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| /pet modify <mark style="color:orange;">`<type>`</mark> <mark style="color:orange;">`<nbt>`</mark>                                             | <p>This will allow you to modify your targeted pet type with the data you put via customized <a href="../../pet-nbt/pet-nbt-tags/">Pet NBT</a><br><br>nbt is in a similar structure to JSON<br>Find out more <a href="https://minecraft.fandom.com/wiki/NBT_format">HERE</a></p>        |
+| /pet modify <mark style="color:blue;">`[player]`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:orange;">`<nbt>`</mark> | <p>This will allow you to modify the targeted players pet type with the data you put via customized <a href="../../pet-nbt/pet-nbt-tags/">Pet NBT</a><br><br>nbt is in a similar structure to JSON<br>Find out more <a href="https://minecraft.fandom.com/wiki/NBT_format">HERE</a></p> |
 
 ## Permissions
 
