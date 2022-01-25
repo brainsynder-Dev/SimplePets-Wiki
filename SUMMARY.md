@@ -3,6 +3,7 @@
 * [HOME](README.md)
 * [FAQ](faq.md)
 * [Major changes to v5](major-changes-to-v5.md)
+* [v5 and v4 comparison](v5-and-v4-comparison.md)
 
 ## Command Information
 
