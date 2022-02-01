@@ -12,6 +12,7 @@ description: All permissions for the Bat Pet
 | pet.type.bat.hat | Will allow the Bat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.bat.mount | Will allow the Bat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.bat.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data bat</mark>) |
+| pet.type.bat.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.bat.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.bat.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.bat.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
