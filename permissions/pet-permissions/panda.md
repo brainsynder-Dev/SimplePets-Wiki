@@ -12,7 +12,6 @@ description: All permissions for the Panda Pet
 | pet.type.panda.hat | Will allow the Panda to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.panda.mount | Will allow the Panda to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.panda.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data panda</mark>) |
-| pet.type.panda.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.panda.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.panda.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.panda.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
