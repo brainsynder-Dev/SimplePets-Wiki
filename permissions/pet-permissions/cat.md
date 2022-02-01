@@ -12,7 +12,6 @@ description: All permissions for the Cat Pet
 | pet.type.cat.hat | Will allow the Cat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cat.mount | Will allow the Cat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cat.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data cat</mark>) |
-| pet.type.cat.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.cat.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.cat.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.cat.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
