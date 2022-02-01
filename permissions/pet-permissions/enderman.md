@@ -12,6 +12,7 @@ description: All permissions for the Enderman Pet
 | pet.type.enderman.hat | Will allow the Enderman to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.enderman.mount | Will allow the Enderman to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.enderman.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data enderman</mark>) |
+| pet.type.enderman.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-1000)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.enderman.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.enderman.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.enderman.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
