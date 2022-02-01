@@ -16,9 +16,7 @@ This pet is currently still 'In Development' and is only able to be used when
 | pet.type.armorstand.hat | Will allow the Armor Stand to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.armorstand.mount | Will allow the Armor Stand to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.armorstand.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data armor_stand</mark>) |
-| pet.type.armorstand.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.armorstand.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.armorstand.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.armorstand.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
-| pet.type.armorstand.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 
