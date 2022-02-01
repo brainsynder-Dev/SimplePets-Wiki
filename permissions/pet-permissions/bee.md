@@ -12,7 +12,7 @@ description: All permissions for the Bee Pet
 | pet.type.bee.hat | Will allow the Bee to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.bee.mount | Will allow the Bee to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.bee.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data bee</mark>) |
-| pet.type.bee.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-1000)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
+| pet.type.bee.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.bee.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.bee.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.bee.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
