@@ -12,6 +12,7 @@ description: All permissions for the Skeleton Horse Pet
 | pet.type.skeletonhorse.hat | Will allow the Skeleton Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.skeletonhorse.mount | Will allow the Skeleton Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.skeletonhorse.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data skeleton_horse</mark>) |
+| pet.type.skeletonhorse.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.skeletonhorse.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.skeletonhorse.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.skeletonhorse.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
