@@ -12,7 +12,6 @@ description: All permissions for the Sheep Pet
 | pet.type.sheep.hat | Will allow the Sheep to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.sheep.mount | Will allow the Sheep to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.sheep.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data sheep</mark>) |
-| pet.type.sheep.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.sheep.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.sheep.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.sheep.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
