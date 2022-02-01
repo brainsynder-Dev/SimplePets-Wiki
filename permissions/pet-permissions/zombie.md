@@ -12,7 +12,6 @@ description: All permissions for the Zombie Pet
 | pet.type.zombie.hat | Will allow the Zombie to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombie.mount | Will allow the Zombie to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombie.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data zombie</mark>) |
-| pet.type.zombie.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.zombie.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.zombie.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.zombie.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
