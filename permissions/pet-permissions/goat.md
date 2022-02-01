@@ -12,7 +12,6 @@ description: All permissions for the Goat Pet
 | pet.type.goat.hat | Will allow the Goat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.goat.mount | Will allow the Goat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.goat.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data goat</mark>) |
-| pet.type.goat.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.goat.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.goat.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.goat.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
