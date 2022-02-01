@@ -12,6 +12,7 @@ description: All permissions for the Fox Pet
 | pet.type.fox.hat | Will allow the Fox to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.fox.mount | Will allow the Fox to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.fox.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data fox</mark>) |
+| pet.type.fox.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-1000)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.fox.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.fox.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.fox.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
