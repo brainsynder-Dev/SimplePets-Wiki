@@ -12,7 +12,6 @@ description: All permissions for the Cow Pet
 | pet.type.cow.hat | Will allow the Cow to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cow.mount | Will allow the Cow to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cow.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data cow</mark>) |
-| pet.type.cow.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.cow.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.cow.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.cow.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
