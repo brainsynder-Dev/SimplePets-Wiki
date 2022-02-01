@@ -12,7 +12,6 @@ description: All permissions for the Skeleton Pet
 | pet.type.skeleton.hat | Will allow the Skeleton to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.skeleton.mount | Will allow the Skeleton to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.skeleton.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data skeleton</mark>) |
-| pet.type.skeleton.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.skeleton.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.skeleton.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.skeleton.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
