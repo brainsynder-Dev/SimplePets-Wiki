@@ -12,7 +12,6 @@ description: All permissions for the Tropical Fish Pet
 | pet.type.tropicalfish.hat | Will allow the Tropical Fish to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.tropicalfish.mount | Will allow the Tropical Fish to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.tropicalfish.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data tropical_fish</mark>) |
-| pet.type.tropicalfish.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.tropicalfish.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.tropicalfish.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.tropicalfish.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
