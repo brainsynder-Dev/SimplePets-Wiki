@@ -12,7 +12,6 @@ description: All permissions for the Mule Pet
 | pet.type.mule.hat | Will allow the Mule to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.mule.mount | Will allow the Mule to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.mule.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data mule</mark>) |
-| pet.type.mule.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.mule.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.mule.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.mule.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
