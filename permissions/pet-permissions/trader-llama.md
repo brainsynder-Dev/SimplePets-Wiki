@@ -12,6 +12,7 @@ description: All permissions for the Trader Llama Pet
 | pet.type.traderllama.hat | Will allow the Trader Llama to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.traderllama.mount | Will allow the Trader Llama to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.traderllama.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data trader_llama</mark>) |
+| pet.type.traderllama.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-1000)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.traderllama.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.traderllama.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.traderllama.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
