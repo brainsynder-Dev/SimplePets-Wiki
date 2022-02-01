@@ -12,6 +12,7 @@ description: All permissions for the Zombie Horse Pet
 | pet.type.zombiehorse.hat | Will allow the Zombie Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombiehorse.mount | Will allow the Zombie Horse to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombiehorse.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data zombie_horse</mark>) |
+| pet.type.zombiehorse.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.zombiehorse.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.zombiehorse.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.zombiehorse.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
