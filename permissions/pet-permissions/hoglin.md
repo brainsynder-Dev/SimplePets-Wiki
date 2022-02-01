@@ -12,7 +12,7 @@ description: All permissions for the Hoglin Pet
 | pet.type.hoglin.hat | Will allow the Hoglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.hoglin.mount | Will allow the Hoglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.hoglin.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data hoglin</mark>) |
-| pet.type.hoglin.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-1000)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
+| pet.type.hoglin.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.hoglin.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.hoglin.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.hoglin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
