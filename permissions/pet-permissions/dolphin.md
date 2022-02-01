@@ -12,7 +12,6 @@ description: All permissions for the Dolphin Pet
 | pet.type.dolphin.hat | Will allow the Dolphin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.dolphin.mount | Will allow the Dolphin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.dolphin.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data dolphin</mark>) |
-| pet.type.dolphin.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.dolphin.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.dolphin.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.dolphin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
