@@ -12,7 +12,6 @@ description: All permissions for the Elder Guardian Pet
 | pet.type.elderguardian.hat | Will allow the Elder Guardian to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.elderguardian.mount | Will allow the Elder Guardian to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.elderguardian.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data elder_guardian</mark>) |
-| pet.type.elderguardian.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.elderguardian.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.elderguardian.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.elderguardian.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
