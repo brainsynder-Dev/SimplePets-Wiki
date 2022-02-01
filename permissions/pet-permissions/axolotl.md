@@ -12,7 +12,7 @@ description: All permissions for the Axolotl Pet
 | pet.type.axolotl.hat | Will allow the Axolotl to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.axolotl.mount | Will allow the Axolotl to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.axolotl.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data axolotl</mark>) |
-| pet.type.axolotl.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-1000)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
+| pet.type.axolotl.data.visible | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.axolotl.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.axolotl.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.axolotl.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
