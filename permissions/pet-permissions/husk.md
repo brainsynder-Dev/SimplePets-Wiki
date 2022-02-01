@@ -12,6 +12,7 @@ description: All permissions for the Husk Pet
 | pet.type.husk.hat | Will allow the Husk to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.husk.mount | Will allow the Husk to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.husk.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data husk</mark>) |
+| pet.type.husk.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.husk.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.husk.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.husk.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
