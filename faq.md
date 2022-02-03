@@ -70,8 +70,11 @@ If the addon is not installed you can follow the steps listed [HERE](faq.md#how-
 
 Currently there is not an easy way to do this, You could update them 2 ways...
 
-1. Download them an manually from either our [JENKINS](https://ci.pluginwiki.us/view/SimplePets%20Addons/) or from the [Addon Site](https://pluginwiki.us/addons/) Then drop them into the <mark style="color:red;">`plugins/SimplePets/Addons`</mark> folder and restart your server
-2. The second way is to delete the Addons jar file from the <mark style="color:red;">`plugins/SimplePets/Addons`</mark> folder then re-install them from following the [STEPS HERE](faq.md#how-can-i-install-addons-for-simplepets)
+1. The simplest way is to use the [Addon Command](command-information/commands/addon-command.md). You can run the command like: \
+   <mark style="color:red;">`/pet addon update PetWeight`</mark> as an example, This will unload the current version... then download the latest verison available.\
+   <mark style="color:orange;">`(Added in v5.0-BUILD-124)`</mark>
+2. Download them an manually from either our [JENKINS](https://ci.pluginwiki.us/view/SimplePets%20Addons/) or from the [Addon Site](https://pluginwiki.us/addons/) Then drop them into the <mark style="color:red;">`plugins/SimplePets/Addons`</mark> folder and restart your server
+3. The second way is to delete the Addons jar file from the <mark style="color:red;">`plugins/SimplePets/Addons`</mark> folder then re-install them from following the [STEPS HERE](faq.md#how-can-i-install-addons-for-simplepets)
 
 ## My players do not have permission for the <mark style="color:red;">`/pet gui`</mark> command!
 
