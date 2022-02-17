@@ -12,16 +12,17 @@ SimplePets v5 has been completely re-coded from the ground up, only a select few
 
 {% tabs %}
 {% tab title="Multiple Pets" %}
-Thanks to re-coding the plugin I was finally able to add a long time request, and that was to be allowed to have multiple pets spawned at the same time.&#x20;
+Thanks to re-coding the plugin I was finally able to add a long time request, and that was to be allowed to have multiple pets spawned at the same time.
 
 The limit of how many pets a player can have can be modified in the <mark style="color:green;">`config.yml`</mark> file as shown below.
 
 ```yaml
-PetToggles:
+pet-toggles:
   # The maximum number of pets a player can spawn at a time.
   # This can be overridden using pet.amount.<Number>, e.g. pet.amount.1 to only allow 1 at once.
+  # 
   # Default: 3
-  Default-Spawn-Limit: 3
+  pet-spawn-limit: 3
 ```
 {% endtab %}
 

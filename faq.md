@@ -115,7 +115,7 @@ Yes the sign GUI can be customized, have a look at [THIS](major-changes-to-v5.md
 You are able to disable what ever pet you want, that can be done by simply changing one line in the pets json file!
 
 1. Open the pets json file <mark style="color:green;">`"plugins/SimplePets/Pets/<type>.json"`</mark>
-2. Change line that is <mark style="color:green;">`"enabled":`</mark>` ```` `<mark style="color:orange;">`true`</mark> to be <mark style="color:green;">`"enabled":`</mark>` ```` `<mark style="color:orange;">`false`</mark>
+2. Change line that is <mark style="color:green;">`"enabled":`</mark><mark style="color:orange;">`true`</mark> to be <mark style="color:green;">`"enabled":`</mark><mark style="color:orange;">`false`</mark>
 
 ## How can I set defaults for pets? <mark style="color:green;">(Like Age)</mark>
 
@@ -159,15 +159,18 @@ Example: say you want pets to be removed after 35 minutes, First figure out how 
 Alternatively you could use a [Tick Calculator](https://mapmaking.fr/tick/)
 
 ```yaml
-PetToggles:
-  AutoRemove:
-    # Disabling this will make it so pets wont be automatically removed if the player is afk
-    # Default: true
-    Enabled: true
-    # What should the wait be?
-    # This is in ticks (20 ticks = 1 second)
-    # Default: 10000
-    TickDelay: 10000
+auto-remove:
+  # Disabling this will make it so pets wont be automatically removed if the player is afk
+  # 
+  # Default: true
+  enabled: true
+  # What should the wait be?
+  # This is in ticks (20 ticks = 1 second)
+  # Example: 10000 ≈ 8 minutes 20 seconds
+  # 
+  # Default: 10000
+  tick-delay: 10000
+
 ```
 
 ## How can I give pets as rewards from crates/voting?
