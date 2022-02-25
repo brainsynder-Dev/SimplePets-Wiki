@@ -180,3 +180,12 @@ You should be able to give pets a few different ways.
 * The best choice would be to use permissions, as that is the easiest way to do it. All the permissions for pets can be found [HERE](permissions/pet-permissions/)
 * The second way is to use the [PURCHASED PETS](command-information/commands/purchased-command.md) command\
   Currently they still need access to the pet permission at least until we finish coding in the config option <mark style="color:green;">`"Utilize-Purchased-Pets"`</mark>
+
+## How can I make it so the Armor Stand has items when it spawns?
+
+Currently as of February 22nd the only way to achieve this is via the summon/modify commands.\
+Example Format: <mark style="color:green;">`{id:"minecraft:stick",tag:{CustomModelData:123}}`</mark>
+
+* How to use this when summoning the Armor Stand Pet \
+  <mark style="color:green;">`/pet summon armor_stand {items:{head:{id:"minecraft:stick",tag:{CustomModelData:123}}}}`</mark>
+* How to use this when modifying an existing Armor Stand Pet\ <mark style="color:green;">`/pet modify Steve armor_stand {items:{left_arm:{id:"minecraft:stick",tag:{CustomModelData:123}}}}`</mark>
