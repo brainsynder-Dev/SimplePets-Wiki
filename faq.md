@@ -189,3 +189,7 @@ Example Format: <mark style="color:green;">`{id:"minecraft:stick",tag:{CustomMod
 * How to use this when summoning the Armor Stand Pet \
   <mark style="color:green;">`/pet summon armor_stand {items:{head:{id:"minecraft:stick",tag:{CustomModelData:123}}}}`</mark>
 * How to use this when modifying an existing Armor Stand Pet\ <mark style="color:green;">`/pet modify Steve armor_stand {items:{left_arm:{id:"minecraft:stick",tag:{CustomModelData:123}}}}`</mark>
+
+## How can I use the commands section in any of the pet json files?
+
+If you would like to see more information __ [_CLICK HERE_](v5-and-v4-comparison.md)__

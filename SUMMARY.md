@@ -1,9 +1,12 @@
 # Table of contents
+
 * [HOME](README.md)
 * [FAQ](faq.md)
 * [Major changes to v5](major-changes-to-v5.md)
-* [v5 and v4 comparison](v5-and-v4-comparison.md)
+* [Pet JSON Commands](v5-and-v4-comparison.md)
+
 ## Command Information
+
 * [Commands](command-information/commands/README.md)
   * [Addon Command](command-information/commands/addon-command.md)
   * [Database Command](command-information/commands/database-command.md)
@@ -21,7 +24,9 @@
   * [Rename Command](command-information/commands/rename-command.md)
   * [Report Command](command-information/commands/report-command.md)
   * [Summon Command](command-information/commands/summon-command.md)
+
 ## permissions
+
 * [Pet Permissions](permissions/pet-permissions/README.md)
   * [Armor Stand](permissions/pet-permissions/armor-stand.md)
   * [Axolotl](permissions/pet-permissions/axolotl.md)
@@ -98,7 +103,9 @@
   * [Zombie Villager](permissions/pet-permissions/zombie-villager.md)
   * [Zombified Piglin](permissions/pet-permissions/zombified-piglin.md)
 * [Other Permissions](permissions/other-permissions.md)
+
 ## Pet NBT
+
 * [Pet NBT Tags](pet-nbt/pet-nbt-tags/README.md)
   * [Armor Stand](pet-nbt/pet-nbt-tags/armor-stand.md)
   * [Axolotl](pet-nbt/pet-nbt-tags/axolotl.md)
