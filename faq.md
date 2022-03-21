@@ -58,6 +58,19 @@ Here is the main way of installing addons for SimplePets:
 
 Here are some images showing how to do this [_<mark style="color:blue;">**CLICK HERE**</mark>_](https://imgur.com/a/Yl0oxft)_<mark style="color:blue;">\*\*\*\*</mark>_
 
+## How can i reload my addons after customizing them?
+
+So you have finished customizing the addons config file and would like the new configuration to be used. You can do it 2 ways..\
+\
+\- The first way is to simply <mark style="color:red;">`restart`</mark> your server, doing the restart refreshes the plugins memory and guarantees a fresh start\
+\
+\- The second way is to follow these steps:
+
+1. Run the <mark style="color:red;">`/pet addon`</mark> command
+2. <mark style="color:orange;">`Disable`</mark> the addon you modified the config for
+3. <mark style="color:orange;">`Re-Enable`</mark> the addon you just disabled\
+   Doing so will refresh the addon with the new config information.
+
 ## My World Guard flags do not seem to be working!
 
 There could be a major reason for this, in v5 of SimplePets we split all external plugin links into their own addons.
