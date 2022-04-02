@@ -104,6 +104,10 @@
   * [Zombified Piglin](permissions/pet-permissions/zombified-piglin.md)
 * [Other Permissions](permissions/other-permissions.md)
 
+## Pet Addons
+
+* [Addon FAQ](pet-addons/addon-faq.md)
+
 ## Pet NBT
 
 * [Pet NBT Tags](pet-nbt/pet-nbt-tags/README.md)
