@@ -56,7 +56,7 @@ Here is the main way of installing addons for SimplePets:
 
 <mark style="color:orange;">**--- IF it is still red check your console for an error message ---**</mark>
 
-Here are some images showing how to do this [_<mark style="color:blue;">**CLICK HERE**</mark>_](https://imgur.com/a/Yl0oxft)_<mark style="color:blue;">\*\*\*\*</mark>_
+Here are some images showing how to do this [_<mark style="color:blue;">**CLICK HERE**</mark>_](https://imgur.com/a/Yl0oxft)
 
 ## How can i reload my addons after customizing them?
 
