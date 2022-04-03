@@ -107,7 +107,8 @@
 ## Pet Addons
 
 * [Addon FAQ](pet-addons/addon-faq.md)
-* [How to make an addon](pet-addons/how-to-make-an-addon.md)
+* [How to make an addon](pet-addons/how-to-make-an-addon/README.md)
+  * [addon.json](pet-addons/how-to-make-an-addon/addon.json.md)
 
 ## Pet NBT
 

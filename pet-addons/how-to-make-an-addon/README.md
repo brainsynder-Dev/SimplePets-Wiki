@@ -11,7 +11,7 @@ This is not a tutorial on how to make an addon, as that would require teaching h
 ## Requirements
 
 * For SimplePets addons you must use a minimum of Java 16 for your development environments&#x20;
-* The SimplePets API module [_<mark style="color:red;">**SEE BELOW**</mark>_](how-to-make-an-addon.md#maven)_<mark style="color:red;">****</mark>_
+* The SimplePets API module [_<mark style="color:red;">**SEE BELOW**</mark>_](./#maven)_<mark style="color:red;">****</mark>_
 * BSLib <mark style="color:blue;">`[Optional]`</mark>
 
 ## Maven
