@@ -15,7 +15,7 @@ This command opens a GUI that allows you to toggle already installed addons, or 
 >
 > <mark style="color:blue;">`[]`</mark> = OPTIONAL
 >
-> Usage: /pet addon <mark style="color:blue;">`[reload|update] [addon]`</mark>
+> Usage: /pet addon <mark style="color:blue;">`[reload|update|install] [addon]`</mark>
 
 ### Usage Descriptions
 
