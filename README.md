@@ -19,7 +19,7 @@ Compiling the plugin is VERY easy, you can run the maven command `mvn clean inst
 
 ### How to install the plugin
 
-* Download the plugin off the [spigot](https://www.spigotmc.org/resources/14124/) site (or from the [JENKINS](https://ci.pluginwiki.us/job/SimplePets\_v5/) site)\
+* Download the plugin off the [spigot](https://www.spigotmc.org/resources/100106/) site (or from the [JENKINS](https://ci.pluginwiki.us/job/SimplePets\_v5/) site)\
   (Make sure you have the correct jar file for your servers version)
 * Once you have the Simple Pets jar file for your version, simply drag and drop it into your servers <mark style="color:red;">`plugins`</mark> folder
 * <mark style="color:orange;">`RESTART`</mark> your server (DO _<mark style="color:red;">**NOT**</mark>_ RELOAD)
@@ -28,7 +28,7 @@ Compiling the plugin is VERY easy, you can run the maven command `mvn clean inst
 ### Where can I get support?
 
 We currently have quite a few areas were you can receive support or find out information\
-Our primary support center is on our [DISCORD](https://discord.gg/TzhnW8xtsR) server\
+Our primary support center is on our [DISCORD](https://discord.bsdevelopment.org) server\
 You can also open a [GITHUB ISSUE](https://github.com/brainsynder-Dev/SimplePets/issues/new/choose) and we will take a look at it
 
 If you don't have a GITHUB or DISCORD account then you can leave us a message on spigot \[This is if you want slow support as we don't check spigot a lot]
