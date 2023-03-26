@@ -9,6 +9,7 @@ description: All nbt tags for the Zombified Piglin Pet
 | ------------ | ------------------------------------------------------------------ | -------------------------------------------- |
 | burning | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | silent | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| glow-color | <mark style="color:green;">`"WHITE"`</mark> | <mark style="color:green;">`String`</mark> |
 | name | <mark style="color:green;">`"&a&l%player%'s Zombified Piglin Pet"`</mark> | <mark style="color:green;">`String`</mark> |
 | raised_arms | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | baby | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
