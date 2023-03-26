@@ -1,12 +1,9 @@
 # Table of contents
-
 * [HOME](README.md)
 * [FAQ](faq.md)
 * [Major changes to v5](major-changes-to-v5.md)
 * [Pet JSON Commands](v5-and-v4-comparison.md)
-
 ## Command Information
-
 * [Commands](command-information/commands/README.md)
   * [Addon Command](command-information/commands/addon-command.md)
   * [Database Command](command-information/commands/database-command.md)
@@ -24,9 +21,7 @@
   * [Rename Command](command-information/commands/rename-command.md)
   * [Report Command](command-information/commands/report-command.md)
   * [Summon Command](command-information/commands/summon-command.md)
-
 ## permissions
-
 * [Pet Permissions](permissions/pet-permissions/README.md)
   * [Armor Stand](permissions/pet-permissions/armor-stand.md)
   * [Axolotl](permissions/pet-permissions/axolotl.md)
@@ -103,16 +98,13 @@
   * [Zombie Villager](permissions/pet-permissions/zombie-villager.md)
   * [Zombified Piglin](permissions/pet-permissions/zombified-piglin.md)
 * [Other Permissions](permissions/other-permissions.md)
-
 ## Pet Addons
-
 * [Addon FAQ](pet-addons/addon-faq.md)
 * [How to make an addon](pet-addons/how-to-make-an-addon/README.md)
   * [addon.json](pet-addons/how-to-make-an-addon/addon.json.md)
-
 ## Pet NBT
-
 * [Pet NBT Tags](pet-nbt/pet-nbt-tags/README.md)
+  * [Allay](pet-nbt/pet-nbt-tags/allay.md)
   * [Armor Stand](pet-nbt/pet-nbt-tags/armor-stand.md)
   * [Axolotl](pet-nbt/pet-nbt-tags/axolotl.md)
   * [Bat](pet-nbt/pet-nbt-tags/bat.md)
@@ -132,6 +124,7 @@
   * [Endermite](pet-nbt/pet-nbt-tags/endermite.md)
   * [Evoker](pet-nbt/pet-nbt-tags/evoker.md)
   * [Fox](pet-nbt/pet-nbt-tags/fox.md)
+  * [Frog](pet-nbt/pet-nbt-tags/frog.md)
   * [Ghast](pet-nbt/pet-nbt-tags/ghast.md)
   * [Giant](pet-nbt/pet-nbt-tags/giant.md)
   * [Glow Squid](pet-nbt/pet-nbt-tags/glow-squid.md)
@@ -170,6 +163,7 @@
   * [Squid](pet-nbt/pet-nbt-tags/squid.md)
   * [Stray](pet-nbt/pet-nbt-tags/stray.md)
   * [Strider](pet-nbt/pet-nbt-tags/strider.md)
+  * [Tadpole](pet-nbt/pet-nbt-tags/tadpole.md)
   * [Trader Llama](pet-nbt/pet-nbt-tags/trader-llama.md)
   * [Tropical Fish](pet-nbt/pet-nbt-tags/tropical-fish.md)
   * [Turtle](pet-nbt/pet-nbt-tags/turtle.md)
