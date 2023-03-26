@@ -10,6 +10,7 @@ description: All nbt tags for the Axolotl Pet
 | burning | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | playing_dead | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | silent | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| glow-color | <mark style="color:green;">`"WHITE"`</mark> | <mark style="color:green;">`String`</mark> |
 | name | <mark style="color:green;">`"&a&l%player%'s Axolotl Pet"`</mark> | <mark style="color:green;">`String`</mark> |
 | baby | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | variant | <mark style="color:green;">`"LUCY"`</mark> | <mark style="color:green;">`String`</mark> |
