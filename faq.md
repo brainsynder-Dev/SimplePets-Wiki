@@ -45,11 +45,10 @@ mobs:
 
 * If you are getting a big error when you try to spawn a pet, then chances are you are not using the right version of SimplePets on your server. For example this can occur when you are using <mark style="color:green;">`MC 1.17.1`</mark> but downloaded the <mark style="color:green;">`SimplePets-1.17.jar`</mark> instead, to fix this simply download the SimplePets jar file for your servers MC version.
 
-### How can I make it so players can purchase pets?
+## How can I make it so players can purchase pets?
 
-The easiest way would be to install one of the economy addons see [HOW TO INSTALL ADDONS](https://wiki.bsdevelopment.org/pet-addons/addon-faq#how-can-i-install-addons-for-simplepets) and once the addon is installed, restart your server for it to take effect.
-
-You could also use a 3rd party shop plugin to give your players permissions to pets
+* The easiest way would be to install one of the economy addons see [HOW TO INSTALL ADDONS](https://wiki.bsdevelopment.org/pet-addons/addon-faq#how-can-i-install-addons-for-simplepets) and once the addon is installed, restart your server for it to take effect.
+* You could also use a 3rd party shop plugin to give your players permissions to pets
 
 ## My World Guard flags do not seem to be working!
 
