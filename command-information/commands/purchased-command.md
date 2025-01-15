@@ -15,19 +15,19 @@ This command will allow you to control/view what pets the player has purchased <
 >
 > <mark style="color:blue;">`[]`</mark> = OPTIONAL
 >
-> Usage: /pet permissions add <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark>
+> Usage: /pet purchased add <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark>
 >
-> Usage: /pet permissions remove <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark>
+> Usage: /pet purchased remove <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark>
 >
-> Usage: /pet permissions list <mark style="color:orange;">`<player>`</mark>
+> Usage: /pet purchased list <mark style="color:orange;">`<player>`</mark>
 
 ### Usage Descriptions
 
-| Usage                                                                                                             | Description                                                                          |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| /pet permissions add <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark>    | This command allows you to add pets to the targeted players purchased pets list      |
-| /pet permissions remove <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark> | This command allows you to remove pets from the targeted players purchased pets list |
-| /pet permissions list <mark style="color:orange;">`<player>`</mark>                                               | Allows you to view a list of all the pets the targeted player has purchased          |
+| Usage                                                                                                           | Description                                                                          |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| /pet purchased add <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark>    | This command allows you to add pets to the targeted players purchased pets list      |
+| /pet purchased remove <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark> | This command allows you to remove pets from the targeted players purchased pets list |
+| /pet purchased list <mark style="color:orange;">`<player>`</mark>                                               | Allows you to view a list of all the pets the targeted player has purchased          |
 
 ## Permissions
 
