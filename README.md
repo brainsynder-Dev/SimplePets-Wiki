@@ -1,21 +1,25 @@
 # HOME
 
-![Current plugin version on the Jenkins](https://img.shields.io/maven-metadata/v?color=red\&label=Current%20Version\&metadataUrl=https%3A%2F%2Frepo.pluginwiki.us%2Frepository%2Fmaven-releases%2Fsimplepets%2Fbrainsynder%2FAPI%2Fmaven-metadata.xml\&style=for-the-badge)
+![Current plugin version on the Jenkins](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo.bsdevelopment.org%2Freleases%2Forg%2Fbsdevelopment%2Fsimplepets%2Fapi%2Fmaven-metadata.xml&style=for-the-badge&label=Current%20Version&color=red)
 
 ### Requirements
 
-* As of v5 of the plugin the minimum spigot version required is 1.17
-* 1.17 & 1.17.1 require `Java 16`
-* 1.18 & 1.18.1 require `Java 17`
-* If you are getting older versions of the plugin then those versions are labeled for the spigot version used and they all use `Java 8`
+* The supported spigot versions are `1.21.8`, `1.21.10`, `1.21.11`, `26.1`, and `26.2`
+* 1.21.8 -> 1.21.11 require `Java 21`
+* 26.1 and up require `Java 25`
+* Support for 1.21.6 was dropped in <mark style="color:orange;">`R5-B296`</mark> and 1.21.7 was dropped in <mark style="color:orange;">`R5-B304`</mark>
 
 ### How to compile the plugin yourself
 
-Compiling the plugin is VERY easy, you can run the maven command `mvn clean install -f pom.xml -Denv.BUILD_NUMBER=`<mark style="color:orange;">`{build}`</mark> `-Denv.JOB_NAME=`<mark style="color:purple;">`{job}`</mark>
+As of <mark style="color:orange;">`R5-B292`</mark> the plugin is a gradle project, so there are no longer separate jars for each server version\
+Compiling it only takes the single command: `gradle clean build`
 
-<mark style="color:orange;">`{build}`</mark> = The build number you want as the version <mark style="color:green;">(e.g 1000 = 5.0-BUILD-1000)</mark>
+The finished <mark style="color:red;">`SimplePets.jar`</mark> will then be in the <mark style="color:red;">`build/libs`</mark> folder
 
-<mark style="color:purple;">`{job}`</mark> = This can be set to what you want its mostly used by the update checker <mark style="color:green;">(e.g SimplePets\_v5)</mark>
+The version the jar is built as comes from the <mark style="color:purple;">`version`</mark> property in the <mark style="color:red;">`gradle.properties`</mark> file <mark style="color:green;">(currently `R5-B308`)</mark>\
+You can build it as a different version by adding `-Pversion=`<mark style="color:orange;">`{version}`</mark> to the command
+
+<mark style="color:orange;">`{version}`</mark> = The version you want the jar to be built as <mark style="color:green;">(e.g `gradle clean build -Pversion=R5-B308`)</mark>
 
 ### How to install the plugin
 
