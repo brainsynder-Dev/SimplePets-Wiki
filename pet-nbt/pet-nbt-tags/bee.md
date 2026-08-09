@@ -15,6 +15,8 @@ description: All nbt tags for the Bee Pet
 | nectar | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | angry | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | burning | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
-| stinger | <mark style="color:green;">`true`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| stinger | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | name | <mark style="color:green;">`"&a&l%player%'s Bee Pet"`</mark> | <mark style="color:green;">`String`</mark> |
 | baby | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |

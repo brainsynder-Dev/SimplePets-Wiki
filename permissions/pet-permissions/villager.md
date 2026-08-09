@@ -12,6 +12,7 @@ description: All permissions for the Villager Pet
 | pet.type.villager.hat | Will allow the Villager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.villager.mount | Will allow the Villager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.villager.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data villager</mark>) |
+| pet.type.villager.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.villager.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.villager.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.villager.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
@@ -21,4 +22,3 @@ description: All permissions for the Villager Pet
 | pet.type.villager.data.profession | Will allow the player to view/toggle the 'Profession' Data Item |
 | pet.type.villager.data.biome | Will allow the player to view/toggle the 'Biome' Data Item |
 | pet.type.villager.data.level | Will allow the player to view/toggle the 'Level' Data Item |
-

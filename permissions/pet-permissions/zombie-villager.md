@@ -12,6 +12,7 @@ description: All permissions for the Zombie Villager Pet
 | pet.type.zombievillager.hat | Will allow the Zombie Villager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombievillager.mount | Will allow the Zombie Villager to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zombievillager.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data zombie_villager</mark>) |
+| pet.type.zombievillager.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.zombievillager.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.zombievillager.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.zombievillager.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
@@ -22,4 +23,3 @@ description: All permissions for the Zombie Villager Pet
 | pet.type.zombievillager.data.profession | Will allow the player to view/toggle the 'Profession' Data Item |
 | pet.type.zombievillager.data.biome | Will allow the player to view/toggle the 'Biome' Data Item |
 | pet.type.zombievillager.data.level | Will allow the player to view/toggle the 'Level' Data Item |
-

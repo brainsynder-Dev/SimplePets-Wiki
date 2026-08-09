@@ -12,9 +12,10 @@ description: All permissions for the Chicken Pet
 | pet.type.chicken.hat | Will allow the Chicken to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.chicken.mount | Will allow the Chicken to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.chicken.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data chicken</mark>) |
+| pet.type.chicken.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.chicken.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.chicken.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.chicken.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.chicken.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.chicken.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-
+| pet.type.chicken.data.variant | Will allow the player to view/toggle the 'Variant' Data Item |

@@ -12,6 +12,7 @@ description: All permissions for the Donkey Pet
 | pet.type.donkey.hat | Will allow the Donkey to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.donkey.mount | Will allow the Donkey to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.donkey.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data donkey</mark>) |
+| pet.type.donkey.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.donkey.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.donkey.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.donkey.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
@@ -20,4 +21,3 @@ description: All permissions for the Donkey Pet
 | pet.type.donkey.data.chest | Will allow the player to view/toggle the 'Chest' Data Item |
 | pet.type.donkey.data.eating | Will allow the player to view/toggle the 'Eating' Data Item |
 | pet.type.donkey.data.saddled | Will allow the player to view/toggle the 'Saddled' Data Item |
-

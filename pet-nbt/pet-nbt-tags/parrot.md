@@ -18,3 +18,5 @@ description: All nbt tags for the Parrot Pet
 | baby | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | variant | <mark style="color:green;">`"RED"`</mark> | <mark style="color:green;">`String`</mark> |
 | sitting | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |

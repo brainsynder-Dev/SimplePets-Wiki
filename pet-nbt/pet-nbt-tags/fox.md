@@ -19,3 +19,5 @@ description: All nbt tags for the Fox Pet
 | baby | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | interested | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | sitting | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |

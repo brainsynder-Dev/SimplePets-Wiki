@@ -12,9 +12,9 @@ description: All permissions for the Vindicator Pet
 | pet.type.vindicator.hat | Will allow the Vindicator to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.vindicator.mount | Will allow the Vindicator to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.vindicator.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data vindicator</mark>) |
+| pet.type.vindicator.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.vindicator.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.vindicator.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.vindicator.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.vindicator.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.vindicator.data.johnny | Will allow the player to view/toggle the 'Johnny' Data Item |
-

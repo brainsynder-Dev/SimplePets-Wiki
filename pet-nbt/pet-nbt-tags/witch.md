@@ -15,3 +15,5 @@ description: All nbt tags for the Witch Pet
 | health | <mark style="color:blue;">`26.0f`</mark> | <mark style="color:blue;">`Float`</mark> |
 | frozen | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | celebrating | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |

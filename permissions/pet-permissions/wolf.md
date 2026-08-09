@@ -12,6 +12,7 @@ description: All permissions for the Wolf Pet
 | pet.type.wolf.hat | Will allow the Wolf to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.wolf.mount | Will allow the Wolf to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.wolf.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data wolf</mark>) |
+| pet.type.wolf.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.wolf.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.wolf.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.wolf.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
@@ -23,4 +24,4 @@ description: All permissions for the Wolf Pet
 | pet.type.wolf.data.sitting | Will allow the player to view/toggle the 'Sitting' Data Item |
 | pet.type.wolf.data.tilted | Will allow the player to view/toggle the 'Tilted' Data Item |
 | pet.type.wolf.data.shaking | Will allow the player to view/toggle the 'Shaking' Data Item |
-
+| pet.type.wolf.data.type | Will allow the player to view/toggle the 'Type' Data Item |

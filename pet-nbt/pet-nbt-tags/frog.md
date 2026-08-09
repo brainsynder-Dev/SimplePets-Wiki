@@ -17,3 +17,5 @@ description: All nbt tags for the Frog Pet
 | variant | <mark style="color:green;">`"TEMPERATE"`</mark> | <mark style="color:green;">`String`</mark> |
 | health | <mark style="color:blue;">`10.0f`</mark> | <mark style="color:blue;">`Float`</mark> |
 | frozen | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |

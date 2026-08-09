@@ -12,9 +12,9 @@ description: All permissions for the Pufferfish Pet
 | pet.type.pufferfish.hat | Will allow the Pufferfish to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.pufferfish.mount | Will allow the Pufferfish to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.pufferfish.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data pufferfish</mark>) |
+| pet.type.pufferfish.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.pufferfish.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.pufferfish.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.pufferfish.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.pufferfish.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.pufferfish.data.size | Will allow the player to view/toggle the 'Size' Data Item |
-

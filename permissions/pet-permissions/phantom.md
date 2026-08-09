@@ -12,9 +12,9 @@ description: All permissions for the Phantom Pet
 | pet.type.phantom.hat | Will allow the Phantom to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.phantom.mount | Will allow the Phantom to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.phantom.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data phantom</mark>) |
+| pet.type.phantom.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.phantom.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.phantom.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.phantom.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.phantom.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.phantom.data.size | Will allow the player to view/toggle the 'Size' Data Item |
-

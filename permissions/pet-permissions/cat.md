@@ -12,6 +12,7 @@ description: All permissions for the Cat Pet
 | pet.type.cat.hat | Will allow the Cat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cat.mount | Will allow the Cat to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.cat.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data cat</mark>) |
+| pet.type.cat.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.cat.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.cat.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.cat.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
@@ -20,7 +21,6 @@ description: All permissions for the Cat Pet
 | pet.type.cat.data.tamed | Will allow the player to view/toggle the 'Tamed' Data Item |
 | pet.type.cat.data.sitting | Will allow the player to view/toggle the 'Sitting' Data Item |
 | pet.type.cat.data.sleep | Will allow the player to view/toggle the 'Sleep' Data Item |
-| pet.type.cat.data.collar | Will allow the player to view/toggle the 'Collar' Data Item |
+| pet.type.cat.data.color | Will allow the player to view/toggle the 'Color' Data Item |
 | pet.type.cat.data.type | Will allow the player to view/toggle the 'Type' Data Item |
 | pet.type.cat.data.head_up | Will allow the player to view/toggle the 'Head Up' Data Item |
-

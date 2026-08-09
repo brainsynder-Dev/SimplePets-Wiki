@@ -16,3 +16,5 @@ description: All nbt tags for the Warden Pet
 | frozen | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | anger-level | <mark style="color:green;">`"CALM"`</mark> | <mark style="color:green;">`String`</mark> |
 | vibration | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |

@@ -12,10 +12,10 @@ description: All permissions for the Mooshroom Pet
 | pet.type.mooshroom.hat | Will allow the Mooshroom to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.mooshroom.mount | Will allow the Mooshroom to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.mooshroom.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data mooshroom</mark>) |
+| pet.type.mooshroom.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.mooshroom.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.mooshroom.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.mooshroom.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.mooshroom.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.mooshroom.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
 | pet.type.mooshroom.data.type | Will allow the player to view/toggle the 'Type' Data Item |
-

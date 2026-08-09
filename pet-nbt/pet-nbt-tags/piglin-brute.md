@@ -13,4 +13,6 @@ description: All nbt tags for the Piglin Brute Pet
 | name | <mark style="color:green;">`"&a&l%player%'s Piglin Brute Pet"`</mark> | <mark style="color:green;">`String`</mark> |
 | health | <mark style="color:blue;">`50.0f`</mark> | <mark style="color:blue;">`Float`</mark> |
 | frozen | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
-| shaking | <mark style="color:green;">`true`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| shaking | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |

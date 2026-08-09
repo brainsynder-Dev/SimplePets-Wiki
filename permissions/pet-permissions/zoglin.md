@@ -12,9 +12,9 @@ description: All permissions for the Zoglin Pet
 | pet.type.zoglin.hat | Will allow the Zoglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zoglin.mount | Will allow the Zoglin to be a hat <mark style="color:green;">`(If enabled)`</mark> |
 | pet.type.zoglin.data.* | Grants full access to all the data toggles for modifying the pet (<mark style="color:red;">/pet data zoglin</mark>) |
+| pet.type.zoglin.data.half_scale<br><mark style="color:orange;"><code>(Added in R5-B294)</code></mark> | Will allow the player to view/toggle the 'Half Scale' Data Item |
 | pet.type.zoglin.data.visible<br><mark style="color:orange;"><code>(Added in v5.0-BUILD-122)</code></mark> | Will allow the player to view/toggle the 'Visible' Data Item |
 | pet.type.zoglin.data.frozen | Will allow the player to view/toggle the 'Frozen' Data Item |
 | pet.type.zoglin.data.burning | Will allow the player to view/toggle the 'Burning' Data Item |
 | pet.type.zoglin.data.silent | Will allow the player to view/toggle the 'Silent' Data Item |
 | pet.type.zoglin.data.baby | Will allow the player to view/toggle the 'Baby' Data Item |
-

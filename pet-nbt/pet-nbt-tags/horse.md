@@ -21,3 +21,5 @@ description: All nbt tags for the Horse Pet
 | baby | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
 | style | <mark style="color:green;">`"NONE"`</mark> | <mark style="color:green;">`String`</mark> |
 | saddled | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| visible | <mark style="color:red;">`false`</mark> | <mark style="color:orange;">`Boolean`</mark> |
+| scale | <mark style="color:blue;">`1.0`</mark> | <mark style="color:blue;">`Double`</mark> |
