@@ -3,6 +3,7 @@
 * [FAQ](faq.md)
 * [Major changes to v5](major-changes-to-v5.md)
 * [Pet JSON Commands](v5-and-v4-comparison.md)
+* [PlaceholderAPI](placeholderapi.md)
 ## Command Information
 * [Commands](command-information/commands/README.md)
   * [Addon Command](command-information/commands/addon-command.md)
@@ -117,6 +118,7 @@
 * [Other Permissions](permissions/other-permissions.md)
 ## Pet Addons
 * [Addon FAQ](pet-addons/addon-faq.md)
+* [Addon List](pet-addons/addon-list.md)
 * [How to make an addon](pet-addons/how-to-make-an-addon/README.md)
   * [addon.json](pet-addons/how-to-make-an-addon/addon.json.md)
 ## Pet NBT
