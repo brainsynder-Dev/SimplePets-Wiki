@@ -210,3 +210,4 @@
   * [Zombie Nautilus](pet-nbt/pet-nbt-tags/zombie-nautilus.md)
   * [Zombie Villager](pet-nbt/pet-nbt-tags/zombie-villager.md)
   * [Zombified Piglin](pet-nbt/pet-nbt-tags/zombified-piglin.md)
+* [NBT Values](pet-nbt/nbt-values.md)
