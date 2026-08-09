@@ -4,9 +4,13 @@
 This command players are given access to by <mark style="color:orange;">`DEFAULT`</mark>
 {% endhint %}
 
+{% hint style="warning" %}
+This command is only registered when <mark style="color:green;">`Rename-Enabled`</mark> is set to <mark style="color:orange;">`true`</mark> in the config.yml
+{% endhint %}
+
 ## What does this command do?
 
-Running this command will allow the player to change what their pets name is
+Renames the selected pet type, leaving the name out will open whichever rename method the <mark style="color:green;">`Rename-Type`</mark> config option is set to <mark style="color:green;">`(anvil, chat, sign, or dialog)`</mark>.
 
 ## Command Usage
 
@@ -14,20 +18,22 @@ Running this command will allow the player to change what their pets name is
 >
 > <mark style="color:blue;">`[]`</mark> = OPTIONAL
 >
+> Usage: /pet rename <mark style="color:orange;">`<type>`</mark> <mark style="color:blue;">`[name]`</mark>
 >
->
-> Usage: /pet rename <mark style="color:blue;">`[player]`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:blue;">`[name]`</mark>
+> Usage: /pet rename target <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:blue;">`[name]`</mark>
 
 ### Usage Descriptions
 
-| Usage                                                                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /pet rename <mark style="color:orange;">`<type>`</mark> <mark style="color:blue;">`[name]`</mark>                                             | <p>This command will <mark style="color:green;">(depending on the config option)</mark> open a GUI that will allow the player to rename the targeted pet type<br>Example: <mark style="color:green;"><code>/pet rename cow</code></mark><br>Example: <mark style="color:green;"><code>/pet rename cow MooMoo</code></mark> (Will only work if the rename type is set to <mark style="color:purple;">COMMAND</mark>)</p> |
-| /pet rename <mark style="color:blue;">`[player]`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:blue;">`[name]`</mark> | <p>This command will change the targeted players pet to have the new custom name <mark style="color:green;">(bypasses the RenameType)</mark><br><mark style="color:green;"></mark><br><mark style="color:green;"></mark>Example: <mark style="color:green;"><code>/pet rename Steve cow MooMoo</code></mark></p>                                                                                                        |
+| Usage | Description |
+| - | - |
+| /pet rename <mark style="color:orange;">`<type>`</mark> | <p>Opens the rename method set in the config for that pet type<br>Example: <mark style="color:green;"><code>/pet rename cow</code></mark></p> |
+| /pet rename <mark style="color:orange;">`<type>`</mark> <mark style="color:blue;">`[name]`</mark> | <p>Renames the pet type to the name given<br>Example: <mark style="color:green;"><code>/pet rename cow Bessie</code></mark></p> |
+| /pet rename target <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark> | <p>Opens the rename method for the targeted players pet type<br>Example: <mark style="color:green;"><code>/pet rename target Steve cow</code></mark></p> |
+| /pet rename target <mark style="color:orange;">`<player>`</mark> <mark style="color:orange;">`<type>`</mark> <mark style="color:blue;">`[name]`</mark> | <p>Renames the targeted players pet type to the name given<br>Example: <mark style="color:green;"><code>/pet rename target Steve cow Bessie</code></mark></p> |
 
 ## Permissions
 
-| Permission Node          | Description                                                                                                 |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| pet.commands.rename      | Grants the player access to run <mark style="color:red;">`/pet rename`</mark>                               |
-| pet.command.rename.other | Grants the player access to change other players pet name via <mark style="color:red;">`/pet rename`</mark> |
+| Permission Node | Description |
+| - | - |
+| pet.commands.rename | Grants the player access to run <mark style="color:red;">`/pet rename`</mark> |
+| pet.commands.rename.other | Grants the player access to run <mark style="color:red;">`/pet rename target`</mark> so they can rename another players pet |

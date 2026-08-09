@@ -7,11 +7,7 @@ Ordinary players should _<mark style="color:red;">**NOT**</mark>_ be given acces
 
 ## What does this command do?
 
-Running this command will regenerate the files/folder they specify to their default state (In other terms reset the file and have it recreated)
-
-{% hint style="danger" %}
-I would <mark style="color:red;">**`STRONGLY`**</mark> suggest only trusted players have access to this command as it could reset pet files, inventory configurations, item configurations, and particle files
-{% endhint %}
+Deletes the selected files and generates them again with their default values <mark style="color:green;">`(addon files are ignored)`</mark>.
 
 ## Command Usage
 
@@ -19,18 +15,28 @@ I would <mark style="color:red;">**`STRONGLY`**</mark> suggest only trusted play
 >
 > <mark style="color:blue;">`[]`</mark> = OPTIONAL
 >
+> Usage: /pet regenerate pets
 >
+> Usage: /pet regenerate inventories
 >
-> Usage: /pet regenerate <mark style="color:orange;">`<selector>`</mark> <mark style="color:blue;">`[type]`</mark>
+> Usage: /pet regenerate items
+>
+> Usage: /pet regenerate particles
+>
+> Usage: /pet regenerate type <mark style="color:orange;">`<petType>`</mark>
 
 ### Usage Descriptions
 
-| Usage                                                                                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /pet regenerate <mark style="color:orange;">`<selector>`</mark> <mark style="color:blue;">`[type]`</mark> | <p>If you did not read above for what this command does <a href="regenerate-command.md#what-does-this-command-do">CLICK HERE</a> <br><br>Selectors can be: <mark style="color:purple;"><code>pets</code></mark>, <mark style="color:purple;"><code>inventories</code></mark>, <mark style="color:purple;"><code>items</code></mark>, <mark style="color:purple;"><code>particles</code></mark>, and/or <mark style="color:purple;"><code>type</code></mark>(pet type)<br>Example: <mark style="color:green;">/pet regenerate pets</mark><br>Example: <mark style="color:green;">/pet regenerate type cow</mark></p> |
+| Usage | Description |
+| - | - |
+| /pet regenerate pets | <p>Regenerates every pet config file<br>Example: <mark style="color:green;"><code>/pet regenerate pets</code></mark></p> |
+| /pet regenerate inventories | <p>Regenerates every inventory file<br>Example: <mark style="color:green;"><code>/pet regenerate inventories</code></mark></p> |
+| /pet regenerate items | <p>Regenerates every item file<br>Example: <mark style="color:green;"><code>/pet regenerate items</code></mark></p> |
+| /pet regenerate particles | <p>Regenerates every particle file<br>Example: <mark style="color:green;"><code>/pet regenerate particles</code></mark></p> |
+| /pet regenerate type <mark style="color:orange;">`<petType>`</mark> | <p>Regenerates the config file of the selected pet type only<br>Example: <mark style="color:green;"><code>/pet regenerate type cow</code></mark></p> |
 
 ## Permissions
 
-| Permission Node         | Description                                                                       |
-| ----------------------- | --------------------------------------------------------------------------------- |
-| pet.commands.regenerate | Grants the player access to run <mark style="color:red;">`/pet regenerate`</mark> |
+| Permission Node | Description |
+| - | - |
+| pet.commands.regenerate | Grants the player access to run <mark style="color:red;">`/pet regenerate`</mark> and all of its sub-commands |

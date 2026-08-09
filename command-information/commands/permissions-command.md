@@ -7,7 +7,7 @@ Ordinary players should _<mark style="color:red;">**NOT**</mark>_ be given acces
 
 ## What does this command do?
 
-Running this command will generate a file in the SimplePets folder that contains majority of the permissions in the plugin <mark style="color:green;">(Located in:</mark> <mark style="color:green;"></mark><mark style="color:green;">`plugins/SimplePets/Generated Files/permissions.yml`</mark><mark style="color:green;">)</mark>
+Generates a <mark style="color:purple;">`permissions.yml`</mark> file inside the <mark style="color:purple;">`Generated Files`</mark> folder that contains every permission the plugin uses.
 
 ## Command Usage
 
@@ -15,12 +15,19 @@ Running this command will generate a file in the SimplePets folder that contains
 >
 > <mark style="color:blue;">`[]`</mark> = OPTIONAL
 >
->
->
 > Usage: /pet permissions
+>
+> Usage: /pet permissions dev
+
+### Usage Descriptions
+
+| Usage | Description |
+| - | - |
+| /pet permissions | <p>Generates the permissions file<br>Example: <mark style="color:green;"><code>/pet permissions</code></mark></p> |
+| /pet permissions dev | <p>Generates the permissions file without the wildcard placeholders<br>Example: <mark style="color:green;"><code>/pet permissions dev</code></mark></p> |
 
 ## Permissions
 
-| Permission Node          | Description                                                                        |
-| ------------------------ | ---------------------------------------------------------------------------------- |
-| pet.commands.permissions | Grants the player access to run <mark style="color:red;">`/pet permissions`</mark> |
+| Permission Node | Description |
+| - | - |
+| pet.commands.permissions | Grants the player access to run <mark style="color:red;">`/pet permissions`</mark> and <mark style="color:red;">`/pet permissions dev`</mark> |
