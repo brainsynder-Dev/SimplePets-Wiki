@@ -10,24 +10,17 @@ I personally wont be adding it to the plugin but if someone else adds it via Git
 
 ## **What version should I use for my server?**
 
-It depends on what version your server is running. Minecraft Version:
+As of <mark style="color:orange;">`R5-B292`</mark> there is only a single jar file, it supports every version listed below:
 
-* [Any Version above 1.18.1](https://ci.pluginwiki.us/job/SimplePets\_v5/)
-* [1.18.1](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.18.1/target/SimplePets-1.18.1.jar)
-* [1.18](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.18/target/SimplePets-1.18.jar)
-* [1.17.1](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.17.1/target/SimplePets-1.17.1.jar)
-* [1.17](https://ci.pluginwiki.us/job/SimplePets\_v5/lastSuccessfulBuild/artifact/Version\_1.17/target/SimplePets-1.17.jar)
+* `1.21.8`
+* `1.21.10`
+* `1.21.11`
+* `26.1`
+* `26.2`
 
-SimplePets v4
+You can download it off the [spigot](https://www.spigotmc.org/resources/100106/) site or from the [JENKINS](https://jenkins.bsdevelopment.org/job/SimplePets/) site
 
-* [1.16.4/1.16.5](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_16\_R3/target/SimplePets-1.16.4.jar)
-* [1.16.3](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_16\_R2/target/SimplePets-1.16.3.jar)
-* [1.16](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_16\_R1/target/SimplePets-1.16.jar)
-* [1.15](https://ci.pluginwiki.us/job/SimplePets-Experimental/lastSuccessfulBuild/artifact/v1\_15\_R1/target/SimplePets-1.15.jar)
-
-For people who are a dinosaur and don't update:
-
-* [All versions below 1.15](https://ci.pluginwiki.us/job/SimplePets/)
+Support for 1.21.6 was dropped in <mark style="color:orange;">`R5-B296`</mark> and 1.21.7 was dropped in <mark style="color:orange;">`R5-B304`</mark>, so servers on those versions will need an older build
 
 ## My pets are not spawning, I get an error message.
 
@@ -43,7 +36,7 @@ mobs:
     block-plugin-spawning: true # Change this to false then restart your server
 ```
 
-* If you are getting a big error when you try to spawn a pet, then chances are you are not using the right version of SimplePets on your server. For example this can occur when you are using <mark style="color:green;">`MC 1.17.1`</mark> but downloaded the <mark style="color:green;">`SimplePets-1.17.jar`</mark> instead, to fix this simply download the SimplePets jar file for your servers MC version.
+* If you are getting a big error when you try to spawn a pet, then chances are your servers version is not supported by the build you are running. The console will log which pets could not be registered when the server starts, and <mark style="color:red;">`/pet list`</mark> will show them as <mark style="color:green;">`NOT REGISTERED`</mark>
 
 ## How can I make it so players can purchase pets?
 
@@ -56,7 +49,7 @@ There could be a major reason for this, in v5 of SimplePets we split all externa
 
 What you could do is make sure you have the World Guard addon installed on your server (Check <mark style="color:red;">`/pet addon`</mark>)
 
-If the addon is not installed you can follow the steps listed [_**HERE**_](faq.md#how-can-i-install-addons-for-simplepets)
+If the addon is not installed you can follow the steps listed [_**HERE**_](pet-addons/addon-faq.md#how-can-i-install-addons-for-simplepets)
 
 ## My players do not have permission for the <mark style="color:red;">`/pet gui`</mark> command!
 
@@ -99,6 +92,9 @@ You are able to disable what ever pet you want, that can be done by simply chang
 1. Open the pets json file <mark style="color:green;">`"plugins/SimplePets/Pets/<type>.json"`</mark>
 2. Change line that is <mark style="color:green;">`"enabled":`</mark><mark style="color:orange;">`true`</mark> to be <mark style="color:green;">`"enabled":`</mark><mark style="color:orange;">`false`</mark>
 
+You can also do it without touching the file by running the [PETCONFIG](command-information/commands/petconfig-command.md) command\
+Example: <mark style="color:green;">`/pet petconfig cow enabled false`</mark>
+
 ## How can I set defaults for pets? <mark style="color:green;">(Like Age)</mark>
 
 This can be done by modifying the pets json file <mark style="color:green;">`"plugins/SimplePets/Pets/<type>.json"`</mark>.
@@ -114,17 +110,25 @@ Using the example below the <mark style="color:purple;">`"baby"`</mark> data cou
       "default": false, <- This line can be changed to be any of the values below
       "values": {
         "true": {
-          "material": "WHEAT",
-          "name": "&#C8C8C8Baby: &atrue"
+          "id": "minecraft:wheat",
+          "components": {
+            "minecraft:custom_name": "&#C8C8C8Baby: &atrue"
+          }
         },
         "false": {
-          "material": "WHEAT",
-          "name": "&#C8C8C8Baby: &cfalse"
+          "id": "minecraft:wheat",
+          "components": {
+            "minecraft:custom_name": "&#C8C8C8Baby: &cfalse"
+          }
         }
       }
     }
   }
 ```
+
+The items under <mark style="color:purple;">`"values"`</mark> are stored in the same format Minecraft itself uses, so they are edited the same way any other vanilla item would be
+
+Every value a bit of data will accept is listed on the [NBT Values](pet-nbt/nbt-values.md) page
 
 ## My pet vanishes after a while, usually when I'm afk for a bit.
 
@@ -136,7 +140,7 @@ The time for the <mark style="color:green;">`"AutoRemove"`</mark> is in ticks <m
 
 If you want to change the delay you can use this bit of math: <mark style="color:purple;">`20 x (seconds)`</mark>
 
-Example: say you want pets to be removed after 35 minutes, First figure out how many seconds that would be <mark style="color:purple;">`(35 x 60 = 2,100)`</mark>. Once we have the total number of seconds that is in 35 minutes, We can then convert the seconds to Ticks <mark style="color:purple;">`(2,100 x 20 = 42,000)`</mark> So we would set the <mark style="color:green;">`"TickDelay"`</mark> to 42000.
+Example: say you want pets to be removed after 35 minutes, First figure out how many seconds that would be <mark style="color:purple;">`(35 x 60 = 2,100)`</mark>. Once we have the total number of seconds that is in 35 minutes, We can then convert the seconds to Ticks <mark style="color:purple;">`(2,100 x 20 = 42,000)`</mark> So we would set the <mark style="color:green;">`"tick-delay"`</mark> to 42000.
 
 Alternatively you could use a [Tick Calculator](https://mapmaking.fr/tick/)
 
@@ -161,16 +165,31 @@ You should be able to give pets a few different ways.
 
 * The best choice would be to use permissions, as that is the easiest way to do it. All the permissions for pets can be found [HERE](permissions/pet-permissions/)
 * The second way is to use the [PURCHASED PETS](command-information/commands/purchased-command.md) command\
-  Currently they still need access to the pet permission at least until we finish coding in the config option <mark style="color:green;">`"Utilize-Purchased-Pets"`</mark>
+  For a purchased pet to be usable without the player also having that pets permission, you need to set <mark style="color:green;">`"Utilize-Purchased-Pets"`</mark> to <mark style="color:orange;">`true`</mark> in the config.yml
+
+```yaml
+# Enabling this will let players use the pets they have purchased
+# even if they do not have the permission for them
+# 
+# Default: false
+Utilize-Purchased-Pets: false # Set this to true
+```
 
 ## How can I make it so the Armor Stand has items when it spawns?
 
-Currently as of February 22nd the only way to achieve this is via the summon/modify commands.\
-Example Format: <mark style="color:green;">`{id:"minecraft:stick",tag:{CustomModelData:123}}`</mark>
+The only way to achieve this is via the summon/modify commands.
 
-* How to use this when summoning the Armor Stand Pet \
-  <mark style="color:green;">`/pet summon armor_stand {items:{head:{id:"minecraft:stick",tag:{CustomModelData:123}}}}`</mark>
-* How to use this when modifying an existing Armor Stand Pet\ <mark style="color:green;">`/pet modify Steve armor_stand {items:{left_arm:{id:"minecraft:stick",tag:{CustomModelData:123}}}}`</mark>
+The items use the same format Minecraft itself uses, so anything you can hand to the vanilla <mark style="color:red;">`/give`</mark> command will work here\
+Example Format: <mark style="color:green;">`{id:"minecraft:stick"}`</mark>
+
+The slots you can fill are <mark style="color:purple;">`head`</mark>, <mark style="color:purple;">`body`</mark>, <mark style="color:purple;">`legs`</mark>, <mark style="color:purple;">`boots`</mark>, <mark style="color:purple;">`left_arm`</mark>, and <mark style="color:purple;">`right_arm`</mark>
+
+* How to use this when summoning the Armor Stand Pet\
+  <mark style="color:green;">`/pet summon armor_stand {items:{head:{id:"minecraft:stick"}}}`</mark>
+* How to use this when modifying an existing Armor Stand Pet\
+  <mark style="color:green;">`/pet modify armor_stand {items:{left_arm:{id:"minecraft:stick"}}}`</mark>
+* How to use this on another players Armor Stand Pet\
+  <mark style="color:green;">`/pet modify target Steve armor_stand {items:{left_arm:{id:"minecraft:stick"}}}`</mark>
 
 ## How can I use the commands section in any of the pet json files?
 
