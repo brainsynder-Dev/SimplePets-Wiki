@@ -38,6 +38,17 @@ mobs:
 
 * If you are getting a big error when you try to spawn a pet, then chances are your servers version is not supported by the build you are running. The console will log which pets could not be registered when the server starts, and <mark style="color:red;">`/pet list`</mark> will show them as <mark style="color:green;">`NOT REGISTERED`</mark>
 
+## How can I remove/hide the placeholder gray stained glass
+In our config.yml we have a toggle in the `misc-toggles` section<br>
+```yaml
+# This option allows for the removal of the placeholder items (The glass panes)
+# 
+# NOTE: these are still required to be in the GUI, this will simply remove them afterwards
+# 
+# Default: false
+remove-all-placeholders: false # Change false -> true
+```
+
 ## How can I make it so players can purchase pets?
 
 * The easiest way would be to install one of the economy addons see [HOW TO INSTALL ADDONS](https://wiki.bsdevelopment.org/pet-addons/addon-faq#how-can-i-install-addons-for-simplepets) and once the addon is installed, restart your server for it to take effect.
@@ -194,3 +205,27 @@ The slots you can fill are <mark style="color:purple;">`head`</mark>, <mark styl
 ## How can I use the commands section in any of the pet json files?
 
 If you would like to see more information [_CLICK HERE_](v5-and-v4-comparison.md)
+
+## Why can't I ride the Creaking
+This is an issue on Mojangs side, and based on multiple [bug reports](https://bugs.mojang.com/browse/MC/issues/MC-278742) it seems that is how they intended it.
+
+## Ever since `R5-B300` I cant fly using a pet
+In `R5-B300` pet flight was redesigned to mostly be based on where the player is looking.<br>
+This change also was added to Aquatic pets which can now be controlled underwater<br>
+### How to fly:
+* Mount the pet that has flight enabled (or is an aquatic mob)
+* Look in the direction you want the pet to go
+* Hold `W` or what ever your forward movement key is set to<br>
+No more need to do `WASD` or `SPACE` just a single key and to look in the direction you want to go
+
+## My pets are constantly teleporting when I am walking around
+This normally happens when you have modified the `distance-till-teleport` pathfinding option<br>
+by default this value is set to <mark style="color:purple;">`1000`</mark> so changing it back and restarting your server should fix this issue
+```yaml
+pathfinding:
+  # How far away from the player does the pet have to be before it teleports closer
+  # 
+  # Default: 1000
+  distance-till-teleport: 1000
+```
+
